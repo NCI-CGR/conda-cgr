@@ -13,10 +13,10 @@
         "perl-gdgraph",
         "perl-gdtextutil"
       ],
-      "md5": "92691c2ac12d77b2fb56662d9117fe73",
+      "md5": "daface6a627f9fba5bf7c81e07f74c3f",
       "name": "graf",
-      "sha256": "f423426aadadde9aed4f7a4185d6a05365a4db620a4a6e4763549228ceb79776",
-      "size": 20839821,
+      "sha256": "9c7a132146484ac0d152c5bcc7582d8fa7b037fef5d837b45ad78cb6b6521340",
+      "size": 20873035,
       "subdir": "linux-64",
       "timestamp": 1610563524875,
       "version": "12sep2018"
