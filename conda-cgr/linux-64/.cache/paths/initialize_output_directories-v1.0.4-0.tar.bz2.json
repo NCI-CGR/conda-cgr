@@ -1,0 +1,19 @@
+{
+  "paths": [
+    {
+      "_path": "bin/initialize_output_directories.out",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/CGF/Bioinformatics/Production/palmercd/miniconda3/envs/dev/conda-bld/initialize_output_directories_1610563418141/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "f9adec37a3c1920b8c2aa376c267653a5b4f25f5b8ca37011807c740a36201f5",
+      "size_in_bytes": 7622200
+    },
+    {
+      "_path": "share/doc/initialize_output_directories/README",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    }
+  ],
+  "paths_version": 1
+}

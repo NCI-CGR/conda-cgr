@@ -1,0 +1,1 @@
+{"package": {"name": "graf", "version": "12sep2018"}, "source": {"url": "https://github.com/ncbi/graf/archive/master.zip"}, "build": {"string": "0"}, "requirements": {"build": [], "run": ["perl-carp", "perl-cgi", "perl-gd", "perl-gdgraph", "perl-gdtextutil"]}, "about": {"home": "https://github.com/ncbi/graf"}, "extra": {"copy_test_source_files": true, "final": true}}

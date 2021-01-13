@@ -1,0 +1,143 @@
+{
+  "paths": [
+    {
+      "_path": "bin/graf/PlotGraf.pl",
+      "path_type": "hardlink",
+      "sha256": "bb53d644dbde8de9e526de283778b960fd16029c888bbf6ff89ce742afb2f186",
+      "size_in_bytes": 46228
+    },
+    {
+      "_path": "bin/graf/PlotPopulations.pl",
+      "path_type": "hardlink",
+      "sha256": "01d1961f93f1d97dce55723ee45fb4951792104b93f45a6b7996a7e6807a7cb4",
+      "size_in_bytes": 57362
+    },
+    {
+      "_path": "bin/graf/graf",
+      "path_type": "hardlink",
+      "sha256": "690f90812bfa48937bba10aa022714b1aaad6b08dfecbff63eda337ef52a5ec9",
+      "size_in_bytes": 6770352
+    },
+    {
+      "_path": "bin/graf/graf_dups",
+      "path_type": "hardlink",
+      "sha256": "87575649409f7c85d6808690d2f074decc5e4e893feb9dfe3e36d18782390dab",
+      "size_in_bytes": 112881
+    },
+    {
+      "_path": "share/graf/FP_SNPs.txt",
+      "path_type": "hardlink",
+      "sha256": "43e9d39d5c86b21a5d03a8208d08b456f720fa8dfaed383fb889bcb46726d9be",
+      "size_in_bytes": 26419200
+    },
+    {
+      "_path": "share/graf/G1000FpGeno.bed",
+      "path_type": "hardlink",
+      "sha256": "3bc7c40d2228465f0c97f70a2a32bd45c4acdbe4847ead55c90aa7e4361c5b59",
+      "size_in_bytes": 6260003
+    },
+    {
+      "_path": "share/graf/G1000FpGeno.bim",
+      "path_type": "hardlink",
+      "sha256": "4800d15396867db26302c3724990cdc4e117d2bd0d4b339a8199958844935d09",
+      "size_in_bytes": 276133
+    },
+    {
+      "_path": "share/graf/G1000FpGeno.fam",
+      "path_type": "hardlink",
+      "sha256": "fbda960fb539b8091b6e661fe228b8c92e5d733c60aa425c61ef9e2239608f9d",
+      "size_in_bytes": 62600
+    },
+    {
+      "_path": "share/graf/G1000SbjPop.txt",
+      "path_type": "hardlink",
+      "sha256": "073bc55d42ff0a51555b5f4285ada5d8f3782e982229f8037f867c17498fa21c",
+      "size_in_bytes": 30048
+    },
+    {
+      "_path": "share/graf/G1000SbjSuperPop.txt",
+      "path_type": "hardlink",
+      "sha256": "c970ad2b4a28951fd969a6d0084493a20e362dedd443eb067c138549a80402d9",
+      "size_in_bytes": 30048
+    },
+    {
+      "_path": "share/graf/G1000_sbj_list.txt",
+      "path_type": "hardlink",
+      "sha256": "fcc4e4056190ce8991309d96514649f4316604a9ca07bd97715ab42ba76f1158",
+      "size_in_bytes": 121229
+    },
+    {
+      "_path": "share/graf/G1000_sbj_scores.txt",
+      "path_type": "hardlink",
+      "sha256": "2caff91cad66238abc52dfdf3c377a977ec4f63c049222d2555a4c6de1b77476",
+      "size_in_bytes": 293878
+    },
+    {
+      "_path": "share/graf/SsToRs.txt",
+      "path_type": "hardlink",
+      "sha256": "683fbcf3e302bb8240ae375610d06c4b2773d9c91cbe0678ba5bcfd472ad8d71",
+      "size_in_bytes": 7826118
+    },
+    {
+      "_path": "share/graf/affy_hapmap.bed",
+      "path_type": "hardlink",
+      "sha256": "225a3c57b0f7fb40258a1bec9191b12e14efa0b124b23078d8a75ca3527ffe6a",
+      "size_in_bytes": 548873
+    },
+    {
+      "_path": "share/graf/affy_hapmap.bim",
+      "path_type": "hardlink",
+      "sha256": "c3e0beb298414a3a8c5d37e007f8f48279aef0d645883ea81d8db2633240fdec",
+      "size_in_bytes": 216519
+    },
+    {
+      "_path": "share/graf/affy_hapmap.fam",
+      "path_type": "hardlink",
+      "sha256": "972a5b764785a1fe08b03ac6e182341650ae5731cf3a9840d14114e7c0c41683",
+      "size_in_bytes": 7859
+    },
+    {
+      "_path": "share/graf/affy_hapmap_fake_pedigree.txt",
+      "path_type": "hardlink",
+      "sha256": "00138bafc48f65eecd15956a096a6c2f05a13f986b3ab29c4e4c9d8f6f93df05",
+      "size_in_bytes": 7336
+    },
+    {
+      "_path": "share/graf/affy_hapmap_fake_ssm.txt",
+      "path_type": "hardlink",
+      "sha256": "c0251d6e0289715d8fc650e22fbb2efc8fc4bdbac5a5a2a225180d9acd8c19e3",
+      "size_in_bytes": 5655
+    },
+    {
+      "_path": "share/graf/affy_hapmap_ssm.txt",
+      "path_type": "hardlink",
+      "sha256": "941cb5a3942687e81b789951b560ab2372f3d42a790201b3522f5fe93e2e2e15",
+      "size_in_bytes": 5625
+    },
+    {
+      "_path": "share/graf/comb_hapmap_ssm.txt",
+      "path_type": "hardlink",
+      "sha256": "808f3a103a5004931741f8de8868889baab4f9ea38dd9fd0a7255c58cb50c2eb",
+      "size_in_bytes": 10197
+    },
+    {
+      "_path": "share/graf/perlegen_hapmap.bed",
+      "path_type": "hardlink",
+      "sha256": "e19c515ef1a0713dbdca13ed9fdfdcce6e38bb465836c005f1b6073356ebf8ba",
+      "size_in_bytes": 608671
+    },
+    {
+      "_path": "share/graf/perlegen_hapmap.bim",
+      "path_type": "hardlink",
+      "sha256": "acab45a88d6a14e47661d21006ab8b231cbe20a909d2105a0bed99bd48f729e9",
+      "size_in_bytes": 247210
+    },
+    {
+      "_path": "share/graf/perlegen_hapmap.fam",
+      "path_type": "hardlink",
+      "sha256": "42e2f355f1d988dc0abea93c6951c04d7ff40c4e50c81d7950517f53d6b74efb",
+      "size_in_bytes": 5130
+    }
+  ],
+  "paths_version": 1
+}

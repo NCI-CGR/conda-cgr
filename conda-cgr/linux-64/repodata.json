@@ -1,0 +1,47 @@
+{
+  "info": {
+    "subdir": "linux-64"
+  },
+  "packages": {
+    "graf-12sep2018-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "perl-carp",
+        "perl-cgi",
+        "perl-gd",
+        "perl-gdgraph",
+        "perl-gdtextutil"
+      ],
+      "md5": "3e5a88dcd2e697fbf98c90a7a180f43c",
+      "name": "graf",
+      "sha256": "ba2c3f7ee96ffc1a105f3ce36b370d29f2e284a4bbe80d4c872278c2e8c7d96f",
+      "size": 20862408,
+      "subdir": "linux-64",
+      "timestamp": 1610563524875,
+      "version": "12sep2018"
+    },
+    "initialize_output_directories-v1.0.4-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "boost-cpp",
+        "gxx_linux-64",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0",
+        "yaml-cpp >=0.6.3,<0.7.0a0"
+      ],
+      "license": "MIT",
+      "md5": "0219b3ee6130a5f5939c3b4c6bce39eb",
+      "name": "initialize_output_directories",
+      "sha256": "7af7167ed18fb47b054908ef8915e0be73501b1c53117487820fc80704eb8979",
+      "size": 1802069,
+      "subdir": "linux-64",
+      "timestamp": 1610564079455,
+      "version": "v1.0.4"
+    }
+  },
+  "packages.conda": {},
+  "removed": [],
+  "repodata_version": 1
+}
