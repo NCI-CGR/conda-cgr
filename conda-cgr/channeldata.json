@@ -1,6 +1,36 @@
 {
   "channeldata_version": 1,
   "packages": {
+    "combine_categorical_runs": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/NCI-CGR/combine_categorical_runs",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/NCI-CGR/combine_categorical_runs",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/combine_categorical_runs.git",
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "postprocessing module for \"plco-analysis\" pipeline",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1611079856,
+      "version": "v1.0.5"
+    },
     "graf": {
       "activate.d": false,
       "binary_prefix": false,
@@ -60,6 +90,36 @@
       "text_prefix": false,
       "timestamp": 1610564079,
       "version": "v1.0.4"
+    },
+    "qsub_job_monitor": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/NCI-CGR/qsub_job_monitor",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/NCI-CGR/qsub_job_monitor",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/qsub_job_monitor.git",
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "qsub interface for \"plco-analysis\" project",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1610660779,
+      "version": "v1.0.0"
     }
   },
   "subdirs": [

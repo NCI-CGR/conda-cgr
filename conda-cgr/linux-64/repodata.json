@@ -3,6 +3,29 @@
     "subdir": "linux-64"
   },
   "packages": {
+    "combine_categorical_runs-v1.0.5-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "boost-cpp",
+        "bzip2 >=1.0.8,<2.0a0",
+        "gmp >=6.2.1,<7.0a0",
+        "gxx_linux-64",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0",
+        "mpfr >=4.0.2,<5.0a0",
+        "yaml-cpp >=0.6.3,<0.7.0a0",
+        "zlib >=1.2.11,<1.3.0a0"
+      ],
+      "license": "MIT",
+      "md5": "41700446ef29aa7c087b35a80f4244e5",
+      "name": "combine_categorical_runs",
+      "sha256": "468de2acb95f6fed2781da4dde6557a8563b19017124e84653d1de69c68541e3",
+      "size": 598547,
+      "subdir": "linux-64",
+      "timestamp": 1611079856992,
+      "version": "v1.0.5"
+    },
     "graf-12sep2018-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
@@ -39,6 +62,24 @@
       "subdir": "linux-64",
       "timestamp": 1610564079455,
       "version": "v1.0.4"
+    },
+    "qsub_job_monitor-v1.0.0-h2bc3f7f_0.tar.bz2": {
+      "build": "h2bc3f7f_0",
+      "build_number": 0,
+      "depends": [
+        "boost-cpp",
+        "gxx_linux-64",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0"
+      ],
+      "license": "MIT",
+      "md5": "797a7ea29a95b7f9761c4814c58b865d",
+      "name": "qsub_job_monitor",
+      "sha256": "fe6a12c7825b8510c17626015c39d242189c80816e57efd79f185b1f4217d528",
+      "size": 704789,
+      "subdir": "linux-64",
+      "timestamp": 1610660779383,
+      "version": "v1.0.0"
     }
   },
   "packages.conda": {},
