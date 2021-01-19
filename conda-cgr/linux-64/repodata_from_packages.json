@@ -63,6 +63,18 @@
       "timestamp": 1610564079455,
       "version": "v1.0.4"
     },
+    "metal-2011_03_25-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "md5": "3d52ae51a6d4a1acfa2c53ed747f027d",
+      "name": "metal",
+      "sha256": "11fb9ea3b2c505a56920fe2f51c6c12459b4724d0d9d8a938886d073da39fcca",
+      "size": 534395,
+      "subdir": "linux-64",
+      "timestamp": 1611092288988,
+      "version": "2011_03_25"
+    },
     "qsub_job_monitor-v1.0.0-h2bc3f7f_0.tar.bz2": {
       "build": "h2bc3f7f_0",
       "build_number": 0,

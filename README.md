@@ -36,6 +36,8 @@ You can add a channel to it directly using a text editor, or use the following c
 
 - [initialize_output_directories](https://github.com/NCI-CGR/initialize_output_directories)
 
+- [metal](http://csg.sph.umich.edu/abecasis/Metal/index.html)
+
 - [qsub_job_monitor](https://github.com/NCI-CGR/qsub_job_monitor)
 
 ### How To Contribute!
@@ -62,7 +64,7 @@ suffer from slow `conda` dependency resolution operations.
 
 `conda install mamba`
 
-`mamba install conda-build git`
+`mamba install conda-build conda-index git`
 
 #### Create a package recipe
 
