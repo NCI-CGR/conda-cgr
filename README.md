@@ -64,7 +64,7 @@ suffer from slow `conda` dependency resolution operations.
 
 `conda install mamba`
 
-`mamba install conda-build git`
+`mamba install conda-build conda-index git`
 
 #### Create a package recipe
 
