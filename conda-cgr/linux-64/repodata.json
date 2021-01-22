@@ -92,6 +92,52 @@
       "subdir": "linux-64",
       "timestamp": 1610660779383,
       "version": "v1.0.0"
+    },
+    "r-construct.model.matrix-1.1.0-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "icu 58.2",
+        "r-data.table",
+        "r-stringi 1.4.3",
+        "r-stringr 1.4.0"
+      ],
+      "license": "MIT",
+      "md5": "9f6941d21c7e3893b0f562cd793bd10b",
+      "name": "r-construct.model.matrix",
+      "sha256": "18f76e12b470d4c390008c7e48e00a120566bc0d524b5d87f37381880d4d5fca",
+      "size": 50993,
+      "subdir": "linux-64",
+      "timestamp": 1611263818282,
+      "version": "1.1.0"
+    },
+    "r-gwasqcplots-1.0.0-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "icu 58.2",
+        "r-cairo",
+        "r-data.table",
+        "r-devtools",
+        "r-ggplot2",
+        "r-ggthemes",
+        "r-r.utils",
+        "r-rcolorbrewer",
+        "r-roxygen2",
+        "r-stringi 1.4.3",
+        "r-stringr 1.4.0",
+        "r-testthat",
+        "r-usethis"
+      ],
+      "license": "GPL-3",
+      "license_family": "GPL3",
+      "md5": "01ee84440631a69a4320cb4de70a87a4",
+      "name": "r-gwasqcplots",
+      "sha256": "910c1d3c0aba841f15b37d2670628cd80a9068424b35382c49e94406d39ad454",
+      "size": 60164,
+      "subdir": "linux-64",
+      "timestamp": 1611269628489,
+      "version": "1.0.0"
     }
   },
   "packages.conda": {},
