@@ -150,6 +150,70 @@
       "text_prefix": false,
       "timestamp": 1610660779,
       "version": "v1.0.0"
+    },
+    "r-construct.model.matrix": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/NCI-CGR/construct.model.matrix",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": [
+        "https://github.com/NCI-CGR/construct.model.matrix/archive/v1.1.0.tar.gz"
+      ],
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Construct Model Matrix for plco-analysis pipeline",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1611263818,
+      "version": "1.1.0"
+    },
+    "r-gwasqcplots": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/cpalmer718/gwasqcplots",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": [
+        "https://github.com/cpalmer718/gwasqcplots/archive/v1.0.0.tar.gz"
+      ],
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Bundled utility GWAS QC plots with some useful features",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1611269628,
+      "version": "1.0.0"
     }
   },
   "subdirs": [
