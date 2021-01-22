@@ -31,14 +31,25 @@ You can add a channel to it directly using a text editor, or use the following c
 ### Supported Packages
 
 - [combine_categorical_runs](https://github.com/NCI-CGR/combine_categorical_runs)
-
+  - `plco-analysis` internal package, no general use
 - [graf](https://github.com/ncbi/graf)
-
+  - NCBI based ancestry caller for GWAS data
+  - note that bundled reference data are dropped in `share/` under the active environment root
 - [initialize_output_directories](https://github.com/NCI-CGR/initialize_output_directories)
-
+  - `plco-analysis` internal package, no general use
 - [metal](http://csg.sph.umich.edu/abecasis/Metal/index.html)
-
+  - traditional meta-analysis software for GWAS data
+  - somewhat dubious licensing
 - [qsub_job_monitor](https://github.com/NCI-CGR/qsub_job_monitor)
+  - `plco-analysis` internal package, no general use
+- [r-construct.model.matrix](https://github.com/NCI-CGR/construct.model.matrix)
+  - `plco-analysis` internal R package, no general use
+  - built as `linux-64` but should be compatible with `noarch` if anyone wants to rebuild
+- [r-gwasqcplots](https::github.com/cpalmer718/gwasqcplots)
+  - `plco-analysis` internal R package
+  - QQ plots with confidence ranges
+  - Manhattan plots with optional highlighting of known loci
+  - built as `linux-64` but should be compatible with `noarch` if anyone wants to rebuild
 
 ### How To Contribute!
 
@@ -124,6 +135,9 @@ any other unexpected files.
 - Create a Pull Request and merge things with `default`
 
 ### Version History
+
+21 January 2021: built R packages; should probably be under noarch but that's not really supported
+for the plco-analysis pipeline so whatever
 
 19 January 2021: finally resolved some package recipe/build issues! also seemingly developed
 a reasonable method of contributing to the channel
