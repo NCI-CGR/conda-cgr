@@ -30,6 +30,10 @@ You can add a channel to it directly using a text editor, or use the following c
 
 ### Supported Packages
 
+- [annotate_frequency](https://github.com/NCI-CGR/annotate_frequency)
+  - `plco-analysis` internal package, no general use
+- [annotate_rsids_from_linker](https://github.com/NCI-CGR/annotate_rsids_from_linker)
+  - `plco-analysis` internal package, no general use
 - [combine_categorical_runs](https://github.com/NCI-CGR/combine_categorical_runs)
   - `plco-analysis` internal package, no general use
 - [graf](https://github.com/ncbi/graf)
