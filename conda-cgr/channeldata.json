@@ -31,6 +31,36 @@
       "timestamp": 1611500821,
       "version": "v1.0.0"
     },
+    "annotate_rsids_from_linker": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/NCI-CGR/annotate_rsids_from_linker",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/NCI-CGR/annotate_rsids_from_linker",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/annotate_rsids_from_linker.git",
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Use linker file to map chr:pos to rsID labels, for plco-analysis",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1611504618,
+      "version": "v1.0.0"
+    },
     "combine_categorical_runs": {
       "activate.d": false,
       "binary_prefix": true,
