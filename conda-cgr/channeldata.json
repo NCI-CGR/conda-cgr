@@ -1,6 +1,36 @@
 {
   "channeldata_version": 1,
   "packages": {
+    "annotate_frequency": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/NCI-CGR/annotate_frequency",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/NCI-CGR/annotate_frequency",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/annotate_frequency.git",
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Annotate \"plco-analysis\" intermediate files with frequency data",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1611500821,
+      "version": "v1.0.0"
+    },
     "combine_categorical_runs": {
       "activate.d": false,
       "binary_prefix": true,
@@ -180,7 +210,7 @@
       "summary": "Construct Model Matrix for plco-analysis pipeline",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611263818,
+      "timestamp": 1611265320,
       "version": "1.1.0"
     },
     "r-gwasqcplots": {

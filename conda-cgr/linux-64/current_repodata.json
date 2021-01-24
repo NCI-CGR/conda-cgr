@@ -3,6 +3,25 @@
     "subdir": "linux-64"
   },
   "packages": {
+    "annotate_frequency-v1.0.0-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "bzip2 >=1.0.8,<2.0a0",
+        "gxx_linux-64",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0",
+        "zlib >=1.2.11,<1.3.0a0"
+      ],
+      "license": "MIT",
+      "md5": "460bda4555734d692cfce3ae9ca4c4cd",
+      "name": "annotate_frequency",
+      "sha256": "20399af6cb2869229411d46c524feaba3b0c2b2059c8d8bc58822cbaae70ac64",
+      "size": 198218,
+      "subdir": "linux-64",
+      "timestamp": 1611500821731,
+      "version": "v1.0.0"
+    },
     "combine_categorical_runs-v1.0.5-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
@@ -99,8 +118,12 @@
       "depends": [
         "icu 58.2",
         "r-data.table",
+        "r-devtools",
+        "r-roxygen2",
         "r-stringi 1.4.3",
-        "r-stringr 1.4.0"
+        "r-stringr 1.4.0",
+        "r-testthat",
+        "r-usethis"
       ],
       "license": "MIT",
       "md5": "9f6941d21c7e3893b0f562cd793bd10b",
@@ -108,7 +131,7 @@
       "sha256": "18f76e12b470d4c390008c7e48e00a120566bc0d524b5d87f37381880d4d5fca",
       "size": 50993,
       "subdir": "linux-64",
-      "timestamp": 1611263818282,
+      "timestamp": 1611265320872,
       "version": "1.1.0"
     },
     "r-gwasqcplots-1.0.0-0.tar.bz2": {
