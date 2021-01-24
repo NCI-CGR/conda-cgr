@@ -14,10 +14,10 @@
         "zlib >=1.2.11,<1.3.0a0"
       ],
       "license": "MIT",
-      "md5": "460bda4555734d692cfce3ae9ca4c4cd",
+      "md5": "def486f0dbe790a0aef42ea190da44c3",
       "name": "annotate_frequency",
-      "sha256": "20399af6cb2869229411d46c524feaba3b0c2b2059c8d8bc58822cbaae70ac64",
-      "size": 198218,
+      "sha256": "57bf9e85be8b5b67e7e5b21cb139ebddbd519e8056b4c16dfd89a4df25f2d3e4",
+      "size": 198167,
       "subdir": "linux-64",
       "timestamp": 1611500821731,
       "version": "v1.0.0"
