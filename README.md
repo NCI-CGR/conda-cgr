@@ -54,6 +54,11 @@ You can add a channel to it directly using a text editor, or use the following c
   - QQ plots with confidence ranges
   - Manhattan plots with optional highlighting of known loci
   - built as `linux-64` but should be compatible with `noarch` if anyone wants to rebuild
+- [ucsc-hg19tohg38](http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver)
+  - liftover chain file from UCSC for hg19->hg38
+  - just a simple convenience to be able to call from `conda`
+  - built as `linux-64` but should be compatible with `noarch` if anyone wants to rebuild
+  - installed under `$CONDA_PREFIX/share/liftover-chains`
 
 ### How To Contribute!
 
