@@ -28,7 +28,7 @@
       "summary": "Annotate \"plco-analysis\" intermediate files with frequency data",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611500821,
+      "timestamp": 1611503130,
       "version": "v1.0.0"
     },
     "annotate_rsids_from_linker": {
@@ -274,6 +274,66 @@
       "text_prefix": false,
       "timestamp": 1611269628,
       "version": "1.0.0"
+    },
+    "ucsc-hg19tohg38": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": null,
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg38.over.chain.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": null,
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1611608726,
+      "version": "2013_12_31"
+    },
+    "ucsc-hg19tohg39": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": null,
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg38.over.chain.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": null,
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1611605627,
+      "version": "2013_12_31"
     }
   },
   "subdirs": [

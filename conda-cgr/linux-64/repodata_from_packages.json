@@ -19,7 +19,7 @@
       "sha256": "57bf9e85be8b5b67e7e5b21cb139ebddbd519e8056b4c16dfd89a4df25f2d3e4",
       "size": 198167,
       "subdir": "linux-64",
-      "timestamp": 1611500821731,
+      "timestamp": 1611503130146,
       "version": "v1.0.0"
     },
     "annotate_rsids_from_linker-v1.0.0-0.tar.bz2": {
@@ -180,6 +180,18 @@
       "subdir": "linux-64",
       "timestamp": 1611269628489,
       "version": "1.0.0"
+    },
+    "ucsc-hg19tohg38-2013_12_31-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "md5": "9501c5fb69144be4eaa74549785bd403",
+      "name": "ucsc-hg19tohg38",
+      "sha256": "7858bcec68730d88400a777e7152d8f05c2bdf63a772e0acab5002bf49476219",
+      "size": 235615,
+      "subdir": "linux-64",
+      "timestamp": 1611608726105,
+      "version": "2013_12_31"
     }
   },
   "packages.conda": {},
