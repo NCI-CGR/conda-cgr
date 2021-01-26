@@ -34,6 +34,10 @@ You can add a channel to it directly using a text editor, or use the following c
   - `plco-analysis` internal package, no general use
 - [annotate_rsids_from_linker](https://github.com/NCI-CGR/annotate_rsids_from_linker)
   - `plco-analysis` internal package, no general use
+- [bolt-lmm-genetic-map-hg38](https://alkesgroup.broadinstitute.org/BOLT-LMM)
+  - backend genetic map from BOLT-LMM
+  - hg38 only (others are available if people want to create those packages)
+  - large file; somewhat thorny to resolve
 - [combine_categorical_runs](https://github.com/NCI-CGR/combine_categorical_runs)
   - `plco-analysis` internal package, no general use
 - [graf](https://github.com/ncbi/graf)
