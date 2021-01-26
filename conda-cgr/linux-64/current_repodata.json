@@ -41,6 +41,18 @@
       "timestamp": 1611504618043,
       "version": "v1.0.0"
     },
+    "bolt-lmm-genetic-map-hg38-v2.3.4-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "md5": "1dfd3c66700fe68142dcd894d6cef2c7",
+      "name": "bolt-lmm-genetic-map-hg38",
+      "sha256": "ce7f3791f863089eec3197e821f64b3004d7f41575971bc0a01ce695bd52a4f8",
+      "size": 56568179,
+      "subdir": "linux-64",
+      "timestamp": 1611670520413,
+      "version": "v2.3.4"
+    },
     "combine_categorical_runs-v1.0.5-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
