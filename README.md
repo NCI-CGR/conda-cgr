@@ -34,6 +34,10 @@ You can add a channel to it directly using a text editor, or use the following c
   - `plco-analysis` internal package, no general use
 - [annotate_rsids_from_linker](https://github.com/NCI-CGR/annotate_rsids_from_linker)
   - `plco-analysis` internal package, no general use
+- [bolt-lmm-genetic-map-hg38](https://alkesgroup.broadinstitute.org/BOLT-LMM)
+  - backend genetic map in hg38 provided by BOLT-LMM
+  - useful for ldsc
+  - requires interpolation
 - [combine_categorical_runs](https://github.com/NCI-CGR/combine_categorical_runs)
   - `plco-analysis` internal package, no general use
 - [graf](https://github.com/ncbi/graf)
@@ -84,7 +88,7 @@ suffer from slow `conda` dependency resolution operations.
 
 `conda install mamba`
 
-`mamba install conda-build conda-index git`
+`mamba install conda-build conda-index git git-lfs`
 
 #### Create a package recipe
 
