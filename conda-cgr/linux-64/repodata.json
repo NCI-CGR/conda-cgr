@@ -22,6 +22,26 @@
       "timestamp": 1611503130146,
       "version": "v1.0.0"
     },
+    "annotate_frequency-v1.1.1-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "boost-cpp",
+        "bzip2 >=1.0.8,<2.0a0",
+        "gxx_linux-64",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0",
+        "zlib >=1.2.11,<1.3.0a0"
+      ],
+      "license": "MIT",
+      "md5": "dc6a60a516be38a6cb91b3dea6e91d64",
+      "name": "annotate_frequency",
+      "sha256": "6e7734945f8710754c97b583a718cd66f4b8fb09a7c2c55999ed6e358d89a480",
+      "size": 476069,
+      "subdir": "linux-64",
+      "timestamp": 1611787323977,
+      "version": "v1.1.1"
+    },
     "annotate_rsids_from_linker-v1.0.0-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
@@ -40,6 +60,25 @@
       "subdir": "linux-64",
       "timestamp": 1611504618043,
       "version": "v1.0.0"
+    },
+    "annotate_rsids_from_linker-v1.1.0-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "bzip2 >=1.0.8,<2.0a0",
+        "gxx_linux-64",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0",
+        "zlib >=1.2.11,<1.3.0a0"
+      ],
+      "license": "MIT",
+      "md5": "2ab0dff406ea231a4a0c6add6f10c5e1",
+      "name": "annotate_rsids_from_linker",
+      "sha256": "1e0e3d40c4da139caeffba3b4fac6118c24ffc084a371cfbfba494724fd76a09",
+      "size": 304527,
+      "subdir": "linux-64",
+      "timestamp": 1611788016687,
+      "version": "v1.1.0"
     },
     "bolt-lmm-genetic-map-hg38-v2.3.4-0.tar.bz2": {
       "build": "0",
@@ -75,6 +114,29 @@
       "subdir": "linux-64",
       "timestamp": 1611079856992,
       "version": "v1.0.5"
+    },
+    "combine_categorical_runs-v1.1.1-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "boost-cpp",
+        "bzip2 >=1.0.8,<2.0a0",
+        "gmp >=6.2.1,<7.0a0",
+        "gxx_linux-64",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0",
+        "mpfr >=4.0.2,<5.0a0",
+        "yaml-cpp >=0.6.3,<0.7.0a0",
+        "zlib >=1.2.11,<1.3.0a0"
+      ],
+      "license": "MIT",
+      "md5": "0c89f6cee0c6400c040b84a7b91a08ed",
+      "name": "combine_categorical_runs",
+      "sha256": "b018c91413abd01d0c624409b018763866e64df3970f72b37b429f38032c1f17",
+      "size": 598910,
+      "subdir": "linux-64",
+      "timestamp": 1611790738169,
+      "version": "v1.1.1"
     },
     "graf-12sep2018-0.tar.bz2": {
       "build": "0",
