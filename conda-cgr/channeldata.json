@@ -3,7 +3,7 @@
   "packages": {
     "annotate_frequency": {
       "activate.d": false,
-      "binary_prefix": false,
+      "binary_prefix": true,
       "deactivate.d": false,
       "description": null,
       "dev_url": "https://github.com/NCI-CGR/annotate_frequency",
@@ -28,8 +28,8 @@
       "summary": "Annotate \"plco-analysis\" intermediate files with frequency data",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611503130,
-      "version": "v1.0.0"
+      "timestamp": 1611787323,
+      "version": "v1.1.1"
     },
     "annotate_rsids_from_linker": {
       "activate.d": false,
@@ -58,8 +58,8 @@
       "summary": "Use linker file to map chr:pos to rsID labels, for plco-analysis",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611504618,
-      "version": "v1.0.0"
+      "timestamp": 1611788016,
+      "version": "v1.1.0"
     },
     "bolt-lmm-genetic-map-hg38": {
       "activate.d": false,
@@ -118,8 +118,8 @@
       "summary": "postprocessing module for \"plco-analysis\" pipeline",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611079856,
-      "version": "v1.0.5"
+      "timestamp": 1611790738,
+      "version": "v1.1.1"
     },
     "graf": {
       "activate.d": false,
