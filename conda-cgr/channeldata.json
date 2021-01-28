@@ -181,6 +181,36 @@
       "timestamp": 1610564079,
       "version": "v1.0.4"
     },
+    "merge_files_for_globus": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/NCI-CGR/merge_files_for_globus",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/NCI-CGR/merge_files_for_globus",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": null,
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/merge_files_for_globus.git",
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": null,
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1611862351,
+      "version": "v1.0.0"
+    },
     "metal": {
       "activate.d": false,
       "binary_prefix": false,

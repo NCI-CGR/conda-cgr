@@ -175,6 +175,25 @@
       "timestamp": 1610564079455,
       "version": "v1.0.4"
     },
+    "merge_files_for_globus-v1.0.0-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "boost-cpp",
+        "bzip2 >=1.0.8,<2.0a0",
+        "gxx_linux-64",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0",
+        "zlib >=1.2.11,<1.3.0a0"
+      ],
+      "md5": "23d650df55eee26bb866c75c567d225b",
+      "name": "merge_files_for_globus",
+      "sha256": "c711b58df9a9fd0d6bd521c062a7d4b1aa8f6dab8d97deab71adaa0411cd1ccf",
+      "size": 429180,
+      "subdir": "linux-64",
+      "timestamp": 1611862351169,
+      "version": "v1.0.0"
+    },
     "metal-2011_03_25-0.tar.bz2": {
       "build": "0",
       "build_number": 0,

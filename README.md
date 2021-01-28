@@ -45,6 +45,8 @@ You can add a channel to it directly using a text editor, or use the following c
   - note that bundled reference data are dropped in `share/` under the active environment root
 - [initialize_output_directories](https://github.com/NCI-CGR/initialize_output_directories)
   - `plco-analysis` internal package, no general use
+- [merge_files_for_globus](https://github.com/NCI-CGR/merge_files_for_globus)
+  - `plco-analysis` internal package, no general use
 - [metal](http://csg.sph.umich.edu/abecasis/Metal/index.html)
   - traditional meta-analysis software for GWAS data
   - somewhat dubious licensing
