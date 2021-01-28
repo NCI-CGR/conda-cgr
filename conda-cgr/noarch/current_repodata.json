@@ -2,7 +2,31 @@
   "info": {
     "subdir": "noarch"
   },
-  "packages": {},
+  "packages": {
+    "ldsc-1.0.1-py_0.tar.bz2": {
+      "build": "py_0",
+      "build_number": 0,
+      "depends": [
+        "bitarray",
+        "nose",
+        "numpy",
+        "pandas",
+        "pybedtools",
+        "python <3",
+        "scipy"
+      ],
+      "license": "GPLv3",
+      "license_family": "GPL",
+      "md5": "fd7fba4dc805055f0ee1f695f105534e",
+      "name": "ldsc",
+      "noarch": "python",
+      "sha256": "d5a0fa060d3f7996872e1110bdc448c76015434774c0f405ab6e9f10e869274a",
+      "size": 58213,
+      "subdir": "noarch",
+      "timestamp": 1611872347831,
+      "version": "1.0.1"
+    }
+  },
   "packages.conda": {},
   "removed": [],
   "repodata_version": 1
