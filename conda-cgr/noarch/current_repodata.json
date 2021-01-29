@@ -3,9 +3,9 @@
     "subdir": "noarch"
   },
   "packages": {
-    "ldsc-1.0.1-py_1.tar.bz2": {
-      "build": "py_1",
-      "build_number": 1,
+    "ldsc-rebuild-1.0.1-py_0.tar.bz2": {
+      "build": "py_0",
+      "build_number": 0,
       "depends": [
         "bitarray",
         "nose",
@@ -17,13 +17,13 @@
       ],
       "license": "GPLv3",
       "license_family": "GPL",
-      "md5": "b6785ebeb13bee010297d0316751f054",
-      "name": "ldsc",
+      "md5": "67d77ea80d878c1c00d5737a28192383",
+      "name": "ldsc-rebuild",
       "noarch": "python",
-      "sha256": "19c663f575d65dbc3aca88e864e93fc1aaac9b4a5d1d797b1ba7ec3568709375",
-      "size": 58275,
+      "sha256": "9695acbd89087130bdfc59afd0b2a2e7149b936fef657f452e88395e5dfa4e2b",
+      "size": 58200,
       "subdir": "noarch",
-      "timestamp": 1611884154730,
+      "timestamp": 1611941145816,
       "version": "1.0.1"
     }
   },

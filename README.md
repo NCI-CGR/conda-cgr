@@ -47,11 +47,12 @@ You can add a channel to it directly using a text editor, or use the following c
   - note that bundled reference data are dropped in `share/` under the active environment root
 - [initialize_output_directories](https://github.com/NCI-CGR/initialize_output_directories)
   - `plco-analysis` internal package, no general use
-- [ldsc](https://github.com/bulik/ldsc)
+- [ldsc-rebuild](https://github.com/bulik/ldsc)
   - LD score regression
   - a package already exists for this, but has a locked version that
 	- isn't actually necessary to lock, because I have a local env that works fine without it; and
 	- breaks the environment resolution, since that locked version doesn't exist anymore
+  - selection of packages by channel is a little wonky with URL channels, hence the name
 - [merge_files_for_globus](https://github.com/NCI-CGR/merge_files_for_globus)
   - `plco-analysis` internal package, no general use
 - [metal](http://csg.sph.umich.edu/abecasis/Metal/index.html)

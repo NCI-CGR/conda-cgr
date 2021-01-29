@@ -241,6 +241,36 @@
       "timestamp": 1611884154,
       "version": "1.0.1"
     },
+    "ldsc-rebuild": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/bulik/ldsc/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPLv3",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://github.com/bulik/ldsc/archive/12e2687ec9bba39da2139d14f6d1944a23d5774a.tar.gz",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "ldsc is a tool for estimating heritability and genetic correlation from GWAS summary statistics. It also computes LD Scores.",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1611941145,
+      "version": "1.0.1"
+    },
     "merge_files_for_globus": {
       "activate.d": false,
       "binary_prefix": true,
