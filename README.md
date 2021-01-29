@@ -40,6 +40,8 @@ You can add a channel to it directly using a text editor, or use the following c
   - large file; somewhat thorny to resolve
 - [combine_categorical_runs](https://github.com/NCI-CGR/combine_categorical_runs)
   - `plco-analysis` internal package, no general use
+- [finter](https://github.com/cpalmer718/finter)
+  - `plco-analysis` internal package, no general use
 - [graf](https://github.com/ncbi/graf)
   - NCBI based ancestry caller for GWAS data
   - note that bundled reference data are dropped in `share/` under the active environment root

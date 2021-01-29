@@ -121,6 +121,36 @@
       "timestamp": 1611790738,
       "version": "v1.1.1"
     },
+    "finter": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/cpalmer718/finter",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/cpalmer718/finter",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": null,
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": "https://github.com/cpalmer718/finter.git",
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": null,
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1611889957,
+      "version": "v1.0.0"
+    },
     "graf": {
       "activate.d": false,
       "binary_prefix": false,

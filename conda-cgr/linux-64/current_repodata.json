@@ -77,6 +77,23 @@
       "timestamp": 1611790738169,
       "version": "v1.1.1"
     },
+    "finter-v1.0.0-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "bzip2 >=1.0.8,<2.0a0",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0",
+        "zlib >=1.2.11,<1.3.0a0"
+      ],
+      "md5": "b89f673ed6ce5f93ea9e895df7a5938a",
+      "name": "finter",
+      "sha256": "ade264654578adbcfa1672d750fa57f1bb73dbf6adaa26f18930472acb3d06b1",
+      "size": 43760,
+      "subdir": "linux-64",
+      "timestamp": 1611889957998,
+      "version": "v1.0.0"
+    },
     "graf-12sep2018-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
