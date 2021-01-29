@@ -3,63 +3,24 @@
     "subdir": "linux-64"
   },
   "packages": {
-    "annotate_frequency-v1.0.0-0.tar.bz2": {
-      "build": "0",
-      "build_number": 0,
-      "depends": [
-        "bzip2 >=1.0.8,<2.0a0",
-        "gxx_linux-64",
-        "libgcc-ng >=9.3.0",
-        "libstdcxx-ng >=9.3.0",
-        "zlib >=1.2.11,<1.3.0a0"
-      ],
-      "license": "MIT",
-      "md5": "def486f0dbe790a0aef42ea190da44c3",
-      "name": "annotate_frequency",
-      "sha256": "57bf9e85be8b5b67e7e5b21cb139ebddbd519e8056b4c16dfd89a4df25f2d3e4",
-      "size": 198167,
-      "subdir": "linux-64",
-      "timestamp": 1611503130146,
-      "version": "v1.0.0"
-    },
-    "annotate_frequency-v1.1.1-0.tar.bz2": {
+    "annotate_frequency-v1.1.0-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
       "depends": [
         "boost-cpp",
         "bzip2 >=1.0.8,<2.0a0",
-        "gxx_linux-64",
+        "finter",
         "libgcc-ng >=9.3.0",
         "libstdcxx-ng >=9.3.0",
         "zlib >=1.2.11,<1.3.0a0"
       ],
-      "license": "MIT",
-      "md5": "dc6a60a516be38a6cb91b3dea6e91d64",
+      "md5": "c282442a927866a5213d99f1dedbea1b",
       "name": "annotate_frequency",
-      "sha256": "6e7734945f8710754c97b583a718cd66f4b8fb09a7c2c55999ed6e358d89a480",
-      "size": 476069,
+      "sha256": "90fbc25fa88998b6f64360baf45383ab2bf4adca972d4d7ad846984406b94465",
+      "size": 436596,
       "subdir": "linux-64",
-      "timestamp": 1611787323977,
-      "version": "v1.1.1"
-    },
-    "annotate_rsids_from_linker-v1.0.0-0.tar.bz2": {
-      "build": "0",
-      "build_number": 0,
-      "depends": [
-        "bzip2 >=1.0.8,<2.0a0",
-        "gxx_linux-64",
-        "libgcc-ng >=9.3.0",
-        "libstdcxx-ng >=9.3.0",
-        "zlib >=1.2.11,<1.3.0a0"
-      ],
-      "license": "MIT",
-      "md5": "3ccc9fcee3d576b688dbe1d0852e3fa1",
-      "name": "annotate_rsids_from_linker",
-      "sha256": "26aed53679d2c803f6762414ba31f63315b8355d90a0dd2e9c57a1196a36f3f8",
-      "size": 294740,
-      "subdir": "linux-64",
-      "timestamp": 1611504618043,
-      "version": "v1.0.0"
+      "timestamp": 1611930556014,
+      "version": "v1.1.0"
     },
     "annotate_rsids_from_linker-v1.1.0-0.tar.bz2": {
       "build": "0",
@@ -72,10 +33,10 @@
         "zlib >=1.2.11,<1.3.0a0"
       ],
       "license": "MIT",
-      "md5": "2ab0dff406ea231a4a0c6add6f10c5e1",
+      "md5": "b2b1af26183a56d28eade19800449afc",
       "name": "annotate_rsids_from_linker",
-      "sha256": "1e0e3d40c4da139caeffba3b4fac6118c24ffc084a371cfbfba494724fd76a09",
-      "size": 304527,
+      "sha256": "7f89d3681c10ec7b15ceaaf3962d06ccf64e2a5155885bb49481d237e7d50ea9",
+      "size": 259069,
       "subdir": "linux-64",
       "timestamp": 1611788016687,
       "version": "v1.1.0"
@@ -92,14 +53,14 @@
       "timestamp": 1611673551303,
       "version": "v2.3.4"
     },
-    "combine_categorical_runs-v1.0.5-0.tar.bz2": {
+    "combine_categorical_runs-v1.1.0-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
       "depends": [
         "boost-cpp",
         "bzip2 >=1.0.8,<2.0a0",
+        "finter",
         "gmp >=6.2.1,<7.0a0",
-        "gxx_linux-64",
         "libgcc-ng >=9.3.0",
         "libstdcxx-ng >=9.3.0",
         "mpfr >=4.0.2,<5.0a0",
@@ -107,36 +68,13 @@
         "zlib >=1.2.11,<1.3.0a0"
       ],
       "license": "MIT",
-      "md5": "41700446ef29aa7c087b35a80f4244e5",
+      "md5": "50a4b9a7bb617963674ebb1768e88ab9",
       "name": "combine_categorical_runs",
-      "sha256": "468de2acb95f6fed2781da4dde6557a8563b19017124e84653d1de69c68541e3",
-      "size": 598547,
+      "sha256": "22647e3b4e165e01cc54ecddd908900b846d26704c70e0081d0fd7ed66aa42e1",
+      "size": 568019,
       "subdir": "linux-64",
-      "timestamp": 1611079856992,
-      "version": "v1.0.5"
-    },
-    "combine_categorical_runs-v1.1.1-0.tar.bz2": {
-      "build": "0",
-      "build_number": 0,
-      "depends": [
-        "boost-cpp",
-        "bzip2 >=1.0.8,<2.0a0",
-        "gmp >=6.2.1,<7.0a0",
-        "gxx_linux-64",
-        "libgcc-ng >=9.3.0",
-        "libstdcxx-ng >=9.3.0",
-        "mpfr >=4.0.2,<5.0a0",
-        "yaml-cpp >=0.6.3,<0.7.0a0",
-        "zlib >=1.2.11,<1.3.0a0"
-      ],
-      "license": "MIT",
-      "md5": "0c89f6cee0c6400c040b84a7b91a08ed",
-      "name": "combine_categorical_runs",
-      "sha256": "b018c91413abd01d0c624409b018763866e64df3970f72b37b429f38032c1f17",
-      "size": 598910,
-      "subdir": "linux-64",
-      "timestamp": 1611790738169,
-      "version": "v1.1.1"
+      "timestamp": 1611932263159,
+      "version": "v1.1.0"
     },
     "finter-v1.0.0-0.tar.bz2": {
       "build": "0",
@@ -184,10 +122,10 @@
         "yaml-cpp >=0.6.3,<0.7.0a0"
       ],
       "license": "MIT",
-      "md5": "1f10de874225e09b352b9b6593fdaad2",
+      "md5": "337773253ad12b32ec2f5cf5ccfe06a0",
       "name": "initialize_output_directories",
-      "sha256": "d677e00221505e7fadcb29be7dfd5137a624bb4aada38a3a78e68b3e25a062e9",
-      "size": 1802546,
+      "sha256": "ec00f47eda3e78cf854ca0e2f94d28192cc251e6144dd42e5514920490df4776",
+      "size": 1802479,
       "subdir": "linux-64",
       "timestamp": 1610564079455,
       "version": "v1.0.4"
@@ -203,10 +141,10 @@
         "libstdcxx-ng >=9.3.0",
         "zlib >=1.2.11,<1.3.0a0"
       ],
-      "md5": "23d650df55eee26bb866c75c567d225b",
+      "md5": "25523bbb17c69a707573a6867493fab0",
       "name": "merge_files_for_globus",
-      "sha256": "c711b58df9a9fd0d6bd521c062a7d4b1aa8f6dab8d97deab71adaa0411cd1ccf",
-      "size": 429180,
+      "sha256": "323661dd5ed9d37f8c95a038b99c03ba3383948951c423ea1242d41f84ce8694",
+      "size": 388207,
       "subdir": "linux-64",
       "timestamp": 1611862351169,
       "version": "v1.0.0"
@@ -233,10 +171,10 @@
         "libstdcxx-ng >=9.3.0"
       ],
       "license": "MIT",
-      "md5": "797a7ea29a95b7f9761c4814c58b865d",
+      "md5": "1bd00a51e5162a50d137e6348f105b7f",
       "name": "qsub_job_monitor",
-      "sha256": "fe6a12c7825b8510c17626015c39d242189c80816e57efd79f185b1f4217d528",
-      "size": 704789,
+      "sha256": "6574b9d49492dde18410527ca0b6ea4d7a1d0f69de0b518b1bc8ce0d180ea552",
+      "size": 704943,
       "subdir": "linux-64",
       "timestamp": 1610660779383,
       "version": "v1.0.0"

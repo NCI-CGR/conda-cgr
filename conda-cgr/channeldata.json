@@ -28,7 +28,7 @@
       "summary": "Annotate \"plco-analysis\" intermediate files with frequency data",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611787323,
+      "timestamp": 1611930556,
       "version": "v1.1.1"
     },
     "annotate_rsids_from_linker": {
@@ -118,7 +118,7 @@
       "summary": "postprocessing module for \"plco-analysis\" pipeline",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611790738,
+      "timestamp": 1611932263,
       "version": "v1.1.1"
     },
     "finter": {
