@@ -208,7 +208,7 @@
       "summary": "ldsc is a tool for estimating heritability and genetic correlation from GWAS summary statistics. It also computes LD Scores.",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1611872347,
+      "timestamp": 1611884154,
       "version": "1.0.1"
     },
     "merge_files_for_globus": {
