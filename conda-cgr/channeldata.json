@@ -91,6 +91,36 @@
       "timestamp": 1611673551,
       "version": "v2.3.4"
     },
+    "bolt-lmm-rebuild": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://alkesgroup.broadinstitute.org/BOLT-LMM/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3+",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://storage.googleapis.com/broad-alkesgroup-public/BOLT-LMM/downloads/BOLT-LMM_v2.3.4.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Efficient large cohorts genome-wide Bayesian mixed-model association testing",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1611969934,
+      "version": "2.3.4"
+    },
     "combine_categorical_runs": {
       "activate.d": false,
       "binary_prefix": true,
