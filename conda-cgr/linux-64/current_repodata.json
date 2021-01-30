@@ -14,10 +14,10 @@
         "libstdcxx-ng >=9.3.0",
         "zlib >=1.2.11,<1.3.0a0"
       ],
-      "md5": "c282442a927866a5213d99f1dedbea1b",
+      "md5": "7ee504107293f774ec2702044df9a006",
       "name": "annotate_frequency",
-      "sha256": "90fbc25fa88998b6f64360baf45383ab2bf4adca972d4d7ad846984406b94465",
-      "size": 436596,
+      "sha256": "5f0e058cd9ff80ebe3ee7415e1707187ac9c21de630703e80bebeb7f8aa430a1",
+      "size": 491375,
       "subdir": "linux-64",
       "timestamp": 1611930556014,
       "version": "v1.1.0"
@@ -88,10 +88,10 @@
         "zlib >=1.2.11,<1.3.0a0"
       ],
       "license": "MIT",
-      "md5": "50a4b9a7bb617963674ebb1768e88ab9",
+      "md5": "c2127881d95640682d1abfb9675228ea",
       "name": "combine_categorical_runs",
-      "sha256": "22647e3b4e165e01cc54ecddd908900b846d26704c70e0081d0fd7ed66aa42e1",
-      "size": 568019,
+      "sha256": "3fe5998156214bbba1ac59d28d54076e39f628a26a18cb937504746665b6bfd3",
+      "size": 596633,
       "subdir": "linux-64",
       "timestamp": 1611932263159,
       "version": "v1.1.0"
@@ -142,10 +142,10 @@
         "yaml-cpp >=0.6.3,<0.7.0a0"
       ],
       "license": "MIT",
-      "md5": "337773253ad12b32ec2f5cf5ccfe06a0",
+      "md5": "c101d44250876bc963cc34558da94cb4",
       "name": "initialize_output_directories",
-      "sha256": "ec00f47eda3e78cf854ca0e2f94d28192cc251e6144dd42e5514920490df4776",
-      "size": 1802479,
+      "sha256": "19aa0dc9fb4bc4b97b0edf71379afe43b3dcfa6d07c99f9da96b6e7c4cb91926",
+      "size": 1900089,
       "subdir": "linux-64",
       "timestamp": 1610564079455,
       "version": "v1.0.4"
@@ -161,10 +161,10 @@
         "libstdcxx-ng >=9.3.0",
         "zlib >=1.2.11,<1.3.0a0"
       ],
-      "md5": "25523bbb17c69a707573a6867493fab0",
+      "md5": "f9e26bf2fa632e1a0c9a2ab5525079f0",
       "name": "merge_files_for_globus",
-      "sha256": "323661dd5ed9d37f8c95a038b99c03ba3383948951c423ea1242d41f84ce8694",
-      "size": 388207,
+      "sha256": "fea8fd33635ed259d6a18ba2eeb6f02c5c3eded2b4634d4656da20748269230d",
+      "size": 414343,
       "subdir": "linux-64",
       "timestamp": 1611862351169,
       "version": "v1.0.0"
@@ -191,10 +191,10 @@
         "libstdcxx-ng >=9.3.0"
       ],
       "license": "MIT",
-      "md5": "1bd00a51e5162a50d137e6348f105b7f",
+      "md5": "e98c82a483fa86e71705ceb71a55b1a0",
       "name": "qsub_job_monitor",
-      "sha256": "6574b9d49492dde18410527ca0b6ea4d7a1d0f69de0b518b1bc8ce0d180ea552",
-      "size": 704943,
+      "sha256": "ba17b1ee9247d9cb5ec29dbda86d08f7f6b0932086531c4033e053a2f98577a2",
+      "size": 795637,
       "subdir": "linux-64",
       "timestamp": 1610660779383,
       "version": "v1.0.0"

@@ -32,6 +32,7 @@ You can add a channel to it directly using a text editor, or use the following c
 
 - [annotate_frequency](https://github.com/NCI-CGR/annotate_frequency)
   - `plco-analysis` internal package, no general use
+  - built against boost-1.70
 - [annotate_rsids_from_linker](https://github.com/NCI-CGR/annotate_rsids_from_linker)
   - `plco-analysis` internal package, no general use
 - [bolt-lmm-rebuild](https://alkesgroup.broadinstitute.org/BOLT-LMM)
@@ -43,6 +44,7 @@ You can add a channel to it directly using a text editor, or use the following c
   - large file; somewhat thorny to resolve
 - [combine_categorical_runs](https://github.com/NCI-CGR/combine_categorical_runs)
   - `plco-analysis` internal package, no general use
+  - built against boost-1.70
 - [finter](https://github.com/cpalmer718/finter)
   - `plco-analysis` internal package, no general use
 - [graf](https://github.com/ncbi/graf)
@@ -50,6 +52,7 @@ You can add a channel to it directly using a text editor, or use the following c
   - note that bundled reference data are dropped in `share/` under the active environment root
 - [initialize_output_directories](https://github.com/NCI-CGR/initialize_output_directories)
   - `plco-analysis` internal package, no general use
+  - built against boost-1.70
 - [ldsc-rebuild](https://github.com/bulik/ldsc)
   - LD score regression
   - a package already exists for this, but has a locked version that
@@ -58,11 +61,13 @@ You can add a channel to it directly using a text editor, or use the following c
   - selection of packages by channel is a little wonky with URL channels, hence the name
 - [merge_files_for_globus](https://github.com/NCI-CGR/merge_files_for_globus)
   - `plco-analysis` internal package, no general use
+  - built against boost-1.70
 - [metal](http://csg.sph.umich.edu/abecasis/Metal/index.html)
   - traditional meta-analysis software for GWAS data
   - somewhat dubious licensing
 - [qsub_job_monitor](https://github.com/NCI-CGR/qsub_job_monitor)
   - `plco-analysis` internal package, no general use
+  - built against boost-1.70
 - [r-construct.model.matrix](https://github.com/NCI-CGR/construct.model.matrix)
   - `plco-analysis` internal R package, no general use
   - built as `linux-64` but should be compatible with `noarch` if anyone wants to rebuild
