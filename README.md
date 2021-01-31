@@ -59,6 +59,9 @@ You can add a channel to it directly using a text editor, or use the following c
 	- isn't actually necessary to lock, because I have a local env that works fine without it; and
 	- breaks the environment resolution, since that locked version doesn't exist anymore
   - selection of packages by channel is a little wonky with URL channels, hence the name
+- [liftover-v369](http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64.v369/liftOver)
+  - lift over genome annotations
+  - replacement for `ucsc-liftover` in bioconda, with dependencies that conflict with *python*
 - [merge_files_for_globus](https://github.com/NCI-CGR/merge_files_for_globus)
   - `plco-analysis` internal package, no general use
   - built against boost-1.70

@@ -301,6 +301,36 @@
       "timestamp": 1611941145,
       "version": "1.0.1"
     },
+    "liftover-v369": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "http://hgdownload.soe.ucsc.edu/admin/exe",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": null,
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64.v369/liftOver",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": null,
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1612095507,
+      "version": "2018_08_07"
+    },
     "merge_files_for_globus": {
       "activate.d": false,
       "binary_prefix": true,

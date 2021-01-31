@@ -150,6 +150,18 @@
       "timestamp": 1610564079455,
       "version": "v1.0.4"
     },
+    "liftover-v369-2018_08_07-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "md5": "c782b76c6002f932169c2ce8d5b3dfc7",
+      "name": "liftover-v369",
+      "sha256": "8d6dba0d48066fdfa51eb80590bc53d5b34688063f13abea830ba7c78ca60213",
+      "size": 5269675,
+      "subdir": "linux-64",
+      "timestamp": 1612095507153,
+      "version": "2018_08_07"
+    },
     "merge_files_for_globus-v1.0.0-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
