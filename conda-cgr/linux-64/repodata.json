@@ -311,6 +311,34 @@
       "timestamp": 1612186280912,
       "version": "1.0.1"
     },
+    "r-gwasqcplots-1.0.2-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "icu 58.2",
+        "r-cairo",
+        "r-data.table",
+        "r-devtools",
+        "r-ggplot2",
+        "r-ggthemes",
+        "r-r.utils",
+        "r-rcolorbrewer",
+        "r-roxygen2",
+        "r-stringi 1.4.3",
+        "r-stringr 1.4.0",
+        "r-testthat",
+        "r-usethis"
+      ],
+      "license": "GPL-3",
+      "license_family": "GPL3",
+      "md5": "95296891a36873a8af5979d91563ef8a",
+      "name": "r-gwasqcplots",
+      "sha256": "e221a8568563ef42d1d18b8eaf3a714fc997ebc7dcfb60c8808c48deb3ea1c26",
+      "size": 55741,
+      "subdir": "linux-64",
+      "timestamp": 1612192380401,
+      "version": "1.0.2"
+    },
     "ucsc-hg19tohg38-2013_12_31-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
