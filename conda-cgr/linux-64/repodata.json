@@ -211,28 +211,6 @@
       "timestamp": 1610660779383,
       "version": "v1.0.0"
     },
-    "r-construct.model.matrix-1.1.0-0.tar.bz2": {
-      "build": "0",
-      "build_number": 0,
-      "depends": [
-        "icu 58.2",
-        "r-data.table",
-        "r-devtools",
-        "r-roxygen2",
-        "r-stringi 1.4.3",
-        "r-stringr 1.4.0",
-        "r-testthat",
-        "r-usethis"
-      ],
-      "license": "MIT",
-      "md5": "9f6941d21c7e3893b0f562cd793bd10b",
-      "name": "r-construct.model.matrix",
-      "sha256": "18f76e12b470d4c390008c7e48e00a120566bc0d524b5d87f37381880d4d5fca",
-      "size": 50993,
-      "subdir": "linux-64",
-      "timestamp": 1611265320872,
-      "version": "1.1.0"
-    },
     "r-construct.model.matrix-1.1.1-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
