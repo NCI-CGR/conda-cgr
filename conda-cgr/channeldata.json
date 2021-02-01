@@ -474,7 +474,7 @@
       "run_exports": {},
       "source_git_url": null,
       "source_url": [
-        "https://github.com/cpalmer718/gwasqcplots/archive/v1.0.0.tar.gz"
+        "https://github.com/cpalmer718/gwasqcplots/archive/v1.0.1.tar.gz"
       ],
       "subdirs": [
         "linux-64"
@@ -482,8 +482,8 @@
       "summary": "Bundled utility GWAS QC plots with some useful features",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611269628,
-      "version": "1.0.0"
+      "timestamp": 1612186280,
+      "version": "1.0.1"
     },
     "ucsc-hg19tohg38": {
       "activate.d": false,
