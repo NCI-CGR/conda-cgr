@@ -114,6 +114,24 @@
       "timestamp": 1612289803923,
       "version": "v1.0.0"
     },
+    "filter_mis_output-v1.0.0-h2bc3f7f_0.tar.bz2": {
+      "build": "h2bc3f7f_0",
+      "build_number": 0,
+      "depends": [
+        "boost-cpp 1.70.*",
+        "finter",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0"
+      ],
+      "license": "MIT",
+      "md5": "c6c2a8021c1c69b8bd809e107c0f258b",
+      "name": "filter_mis_output",
+      "sha256": "f493291f7f2dd59bd8cc2a17a5ccbe062ebb83988947f5e1e69fa5f5ad18a2af",
+      "size": 759465,
+      "subdir": "linux-64",
+      "timestamp": 1612294704534,
+      "version": "v1.0.0"
+    },
     "finter-v1.0.0-0.tar.bz2": {
       "build": "0",
       "build_number": 0,

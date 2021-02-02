@@ -46,7 +46,11 @@ You can add a channel to it directly using a text editor, or use the following c
   - `plco-analysis` internal package, no general use
   - built against boost-1.70
 - [dynamic_r2](https://github.com/NCI-CGR/dynamic_r2)
-  - apply Rsq filtering to imputed data split by MAF bin
+  - compute Rsq filtering exclusions in imputed data split by MAF bin
+  - built against boost-1.70
+- [filter_mis_output](https://github.com/NCI-CGR/filter_mis_output)
+  - apply Rsq filtering from `dynamic_r2` to imputed data
+  - quite slow, needs optimization :(
   - built against boost-1.70
 - [finter](https://github.com/cpalmer718/finter)
   - `plco-analysis` internal package, no general use

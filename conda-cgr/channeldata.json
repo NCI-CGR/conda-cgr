@@ -181,6 +181,36 @@
       "timestamp": 1612289803,
       "version": "v1.0.0"
     },
+    "filter_mis_output": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/NCI-CGR/filter_mis_output",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/NCI-CGR/filter_mis_output",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/filter_mis_output.git",
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Apply results of dynamic_r2 to remove failed variants",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1612294704,
+      "version": "v1.0.0"
+    },
     "finter": {
       "activate.d": false,
       "binary_prefix": false,
