@@ -45,6 +45,9 @@ You can add a channel to it directly using a text editor, or use the following c
 - [combine_categorical_runs](https://github.com/NCI-CGR/combine_categorical_runs)
   - `plco-analysis` internal package, no general use
   - built against boost-1.70
+- [dynamic_r2](https://github.com/NCI-CGR/dynamic_r2)
+  - apply Rsq filtering to imputed data split by MAF bin
+  - built against boost-1.70
 - [finter](https://github.com/cpalmer718/finter)
   - `plco-analysis` internal package, no general use
 - [graf](https://github.com/ncbi/graf)
@@ -79,6 +82,9 @@ You can add a channel to it directly using a text editor, or use the following c
   - QQ plots with confidence ranges
   - Manhattan plots with optional highlighting of known loci
   - built as `linux-64` but should be compatible with `noarch` if anyone wants to rebuild
+- [sbatch_job_monitor](https://github.com/NCI-CGR/sbatch_job_monitor)
+  - `plco-analysis` internal package, no general use
+  - built against boost-1.70
 - [ucsc-hg19tohg38](http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver)
   - liftover chain file from UCSC for hg19->hg38
   - just a simple convenience to be able to call from `conda`
