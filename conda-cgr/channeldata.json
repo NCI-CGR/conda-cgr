@@ -151,6 +151,36 @@
       "timestamp": 1611932263,
       "version": "v1.1.1"
     },
+    "dynamic_r2": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/NCI-CGR/dynamic_r2",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/NCI-CGR/dynamic_r2",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/dynamic_r2.git",
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Filter minimac4 imputed data by Rsq within frequency bins",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1612289803,
+      "version": "v1.0.0"
+    },
     "finter": {
       "activate.d": false,
       "binary_prefix": false,
@@ -484,6 +514,36 @@
       "text_prefix": false,
       "timestamp": 1612192380,
       "version": "1.0.2"
+    },
+    "sbatch_job_monitor": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/NCI-CGR/sbatch_job_monitor",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/NCI-CGR/sbatch_job_monitor",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/sbatch_job_monitor.git",
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "slurm interface for \"plco-analysis\" project",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1612225805,
+      "version": "v1.0.0"
     },
     "ucsc-hg19tohg38": {
       "activate.d": false,

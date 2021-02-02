@@ -96,6 +96,24 @@
       "timestamp": 1611932263159,
       "version": "v1.1.0"
     },
+    "dynamic_r2-v1.0.0-h2bc3f7f_0.tar.bz2": {
+      "build": "h2bc3f7f_0",
+      "build_number": 0,
+      "depends": [
+        "boost-cpp 1.70.*",
+        "finter",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0"
+      ],
+      "license": "MIT",
+      "md5": "77c0e5eec47ec224094e501474bc2c95",
+      "name": "dynamic_r2",
+      "sha256": "78bb0f58094a531f194c5ba2c18b2d2df9dbf04b3c1803ecc516e8f5d14e9c1c",
+      "size": 952578,
+      "subdir": "linux-64",
+      "timestamp": 1612289803923,
+      "version": "v1.0.0"
+    },
     "finter-v1.0.0-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
@@ -260,6 +278,23 @@
       "subdir": "linux-64",
       "timestamp": 1612192380401,
       "version": "1.0.2"
+    },
+    "sbatch_job_monitor-v1.0.0-h2bc3f7f_0.tar.bz2": {
+      "build": "h2bc3f7f_0",
+      "build_number": 0,
+      "depends": [
+        "boost-cpp 1.70.*",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0"
+      ],
+      "license": "MIT",
+      "md5": "a6d7922d7956211d45a4cde594060ed3",
+      "name": "sbatch_job_monitor",
+      "sha256": "57e1f946755b2603176c42d0ef8facede5f83a23e5590129bdaa2cfbe4535506",
+      "size": 796743,
+      "subdir": "linux-64",
+      "timestamp": 1612225805535,
+      "version": "v1.0.0"
     },
     "ucsc-hg19tohg38-2013_12_31-0.tar.bz2": {
       "build": "0",
