@@ -7,7 +7,7 @@
       "build": "0",
       "build_number": 0,
       "depends": [
-        "boost-cpp",
+        "boost-cpp 1.70.*",
         "bzip2 >=1.0.8,<2.0a0",
         "finter",
         "libgcc-ng >=9.3.0",
@@ -19,7 +19,7 @@
       "sha256": "5f0e058cd9ff80ebe3ee7415e1707187ac9c21de630703e80bebeb7f8aa430a1",
       "size": 491375,
       "subdir": "linux-64",
-      "timestamp": 1611930556014,
+      "timestamp": 1612006411021,
       "version": "v1.1.0"
     },
     "annotate_rsids_from_linker-v1.1.0-0.tar.bz2": {
@@ -27,7 +27,7 @@
       "build_number": 0,
       "depends": [
         "bzip2 >=1.0.8,<2.0a0",
-        "gxx_linux-64",
+        "finter",
         "libgcc-ng >=9.3.0",
         "libstdcxx-ng >=9.3.0",
         "zlib >=1.2.11,<1.3.0a0"
@@ -38,7 +38,7 @@
       "sha256": "7f89d3681c10ec7b15ceaaf3962d06ccf64e2a5155885bb49481d237e7d50ea9",
       "size": 259069,
       "subdir": "linux-64",
-      "timestamp": 1611788016687,
+      "timestamp": 1611929589798,
       "version": "v1.1.0"
     },
     "bolt-lmm-genetic-map-hg38-v2.3.4-0.tar.bz2": {
@@ -77,7 +77,7 @@
       "build": "0",
       "build_number": 0,
       "depends": [
-        "boost-cpp",
+        "boost-cpp 1.70.*",
         "bzip2 >=1.0.8,<2.0a0",
         "finter",
         "gmp >=6.2.1,<7.0a0",
@@ -93,7 +93,7 @@
       "sha256": "3fe5998156214bbba1ac59d28d54076e39f628a26a18cb937504746665b6bfd3",
       "size": 596633,
       "subdir": "linux-64",
-      "timestamp": 1611932263159,
+      "timestamp": 1612006976399,
       "version": "v1.1.0"
     },
     "dynamic_r2-v1.0.0-h2bc3f7f_0.tar.bz2": {
@@ -167,24 +167,23 @@
       "timestamp": 1610563524875,
       "version": "12sep2018"
     },
-    "initialize_output_directories-v1.0.4-0.tar.bz2": {
+    "initialize_output_directories-v1.0.5-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
       "depends": [
-        "boost-cpp",
-        "gxx_linux-64",
+        "boost-cpp 1.70.*",
         "libgcc-ng >=9.3.0",
         "libstdcxx-ng >=9.3.0",
         "yaml-cpp >=0.6.3,<0.7.0a0"
       ],
       "license": "MIT",
-      "md5": "c101d44250876bc963cc34558da94cb4",
+      "md5": "d88293759d855940bd716b720f61a513",
       "name": "initialize_output_directories",
-      "sha256": "19aa0dc9fb4bc4b97b0edf71379afe43b3dcfa6d07c99f9da96b6e7c4cb91926",
-      "size": 1900089,
+      "sha256": "d5a69ca4fe08342094f3f5a6d2bad75f7521efb40bcf8323ff75b138973f0a52",
+      "size": 1900345,
       "subdir": "linux-64",
-      "timestamp": 1610564079455,
-      "version": "v1.0.4"
+      "timestamp": 1612369975393,
+      "version": "v1.0.5"
     },
     "liftover-v369-2018_08_07-0.tar.bz2": {
       "build": "0",
@@ -202,9 +201,9 @@
       "build": "0",
       "build_number": 0,
       "depends": [
-        "boost-cpp",
+        "boost-cpp 1.70.*",
         "bzip2 >=1.0.8,<2.0a0",
-        "gxx_linux-64",
+        "finter",
         "libgcc-ng >=9.3.0",
         "libstdcxx-ng >=9.3.0",
         "zlib >=1.2.11,<1.3.0a0"
@@ -214,7 +213,7 @@
       "sha256": "fea8fd33635ed259d6a18ba2eeb6f02c5c3eded2b4634d4656da20748269230d",
       "size": 414343,
       "subdir": "linux-64",
-      "timestamp": 1611862351169,
+      "timestamp": 1612008184879,
       "version": "v1.0.0"
     },
     "metal-2011_03_25-0.tar.bz2": {
@@ -233,8 +232,7 @@
       "build": "h2bc3f7f_0",
       "build_number": 0,
       "depends": [
-        "boost-cpp",
-        "gxx_linux-64",
+        "boost-cpp 1.70.*",
         "libgcc-ng >=9.3.0",
         "libstdcxx-ng >=9.3.0"
       ],
@@ -244,7 +242,7 @@
       "sha256": "ba17b1ee9247d9cb5ec29dbda86d08f7f6b0932086531c4033e053a2f98577a2",
       "size": 795637,
       "subdir": "linux-64",
-      "timestamp": 1610660779383,
+      "timestamp": 1612008752796,
       "version": "v1.0.0"
     },
     "r-construct.model.matrix-1.1.1-0.tar.bz2": {

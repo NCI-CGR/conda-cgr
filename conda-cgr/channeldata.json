@@ -28,12 +28,12 @@
       "summary": "Annotate \"plco-analysis\" intermediate files with frequency data",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611930556,
+      "timestamp": 1612006411,
       "version": "v1.1.1"
     },
     "annotate_rsids_from_linker": {
       "activate.d": false,
-      "binary_prefix": false,
+      "binary_prefix": true,
       "deactivate.d": false,
       "description": null,
       "dev_url": "https://github.com/NCI-CGR/annotate_rsids_from_linker",
@@ -58,7 +58,7 @@
       "summary": "Use linker file to map chr:pos to rsID labels, for plco-analysis",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611788016,
+      "timestamp": 1611929589,
       "version": "v1.1.0"
     },
     "bolt-lmm-genetic-map-hg38": {
@@ -148,7 +148,7 @@
       "summary": "postprocessing module for \"plco-analysis\" pipeline",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611932263,
+      "timestamp": 1612006976,
       "version": "v1.1.1"
     },
     "dynamic_r2": {
@@ -298,8 +298,8 @@
       "summary": "preprocessing module for \"plco-analysis\" pipeline",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1610564079,
-      "version": "v1.0.4"
+      "timestamp": 1612369975,
+      "version": "v1.0.5"
     },
     "ldsc": {
       "activate.d": false,
@@ -418,7 +418,7 @@
       "summary": null,
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611862351,
+      "timestamp": 1612008184,
       "version": "v1.0.0"
     },
     "metal": {
@@ -478,7 +478,7 @@
       "summary": "qsub interface for \"plco-analysis\" project",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1610660779,
+      "timestamp": 1612008752,
       "version": "v1.0.0"
     },
     "r-construct.model.matrix": {
