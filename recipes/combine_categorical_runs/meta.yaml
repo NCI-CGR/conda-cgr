@@ -1,0 +1,42 @@
+package:
+  name: combine_categorical_runs
+  version: v1.1.0
+source:
+  git_rev: v1.1.0
+  git_url: https://github.com/NCI-CGR/combine_categorical_runs.git
+requirements:
+  build:
+    - autoconf
+    - automake
+    - libtool
+    - {{ compiler('gxx') }}
+    - make>=4.2
+    - boost-cpp=1.70
+    - yaml-cpp
+    - zlib
+    - bzip2
+    - gmp
+    - mpfr
+    - finter
+  host:
+    - boost-cpp=1.70
+    - {{ compiler('gxx') }}
+    - yaml-cpp
+    - zlib
+    - bzip2
+    - gmp
+    - mpfr
+    - finter
+  run:
+    - boost-cpp=1.70
+    - yaml-cpp
+    - zlib
+    - bzip2
+    - gmp
+    - mpfr
+    - finter
+about:
+  dev_url: https://github.com/NCI-CGR/combine_categorical_runs
+  home: https://github.com/NCI-CGR/combine_categorical_runs
+  license: MIT
+  summary: postprocessing module for "plco-analysis" pipeline

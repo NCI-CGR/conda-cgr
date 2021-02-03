@@ -1,0 +1,27 @@
+package:
+  name: filter_mis_output
+  version: v1.0.0
+source:
+  git_rev: v1.0.0
+  git_url: https://github.com/NCI-CGR/filter_mis_output.git
+requirements:
+  build:
+    - autoconf
+    - automake
+    - finter
+    - libtool
+    - {{ compiler('cxx') }}
+    - make>=4.2
+    - boost-cpp=1.70
+  host:
+    - boost-cpp=1.70
+    - finter
+    - {{ compiler('cxx') }}
+  run:
+    - finter
+    - boost-cpp=1.70
+about:
+  dev_url: https://github.com/NCI-CGR/filter_mis_output
+  home: https://github.com/NCI-CGR/filter_mis_output
+  license: MIT
+  summary: Apply results of dynamic_r2 to remove failed variants

@@ -1,0 +1,37 @@
+package:
+    name: r-construct.model.matrix
+    version: 1.1.1
+source:
+    url:
+        - https://github.com/NCI-CGR/construct.model.matrix/archive/v1.1.1.tar.gz
+build:
+    number: '0'
+    rpaths:
+        - lib/
+        - lib/R/lib/
+requirements:
+    host:
+        - r-data.table
+        - icu ==58.2
+        - r-stringi ==1.4.3
+        - r-stringr ==1.4.0
+        - r-usethis
+        - r-testthat
+        - r-devtools
+        - r-roxygen2
+    run:
+        - icu ==58.2
+        - r-stringi ==1.4.3
+        - r-stringr ==1.4.0
+        - r-data.table
+        - r-usethis
+        - r-testthat
+        - r-devtools
+        - r-roxygen2
+test:
+    commands:
+        - R -e "library('construct.model.matrix')"
+about:
+    home: https://github.com/NCI-CGR/construct.model.matrix
+    license: MIT
+    summary: Construct Model Matrix for plco-analysis pipeline

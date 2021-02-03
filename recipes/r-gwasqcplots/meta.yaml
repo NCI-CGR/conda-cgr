@@ -1,0 +1,48 @@
+package:
+    name: r-gwasqcplots
+    version: 1.0.2
+source:
+    url:
+        - https://github.com/cpalmer718/gwasqcplots/archive/v1.0.2.tar.gz
+build:
+    number: '0'
+    rpaths:
+        - lib/
+        - lib/R/lib/
+requirements:
+    host:
+        - icu ==58.2
+        - r-stringi ==1.4.3
+        - r-stringr ==1.4.0
+        - r-r.utils
+        - r-ggplot2
+        - r-ggthemes
+        - r-rcolorbrewer
+        - r-data.table
+        - r-cairo
+        - r-usethis
+        - r-testthat
+        - r-devtools
+        - r-roxygen2
+    run:
+        - icu ==58.2
+        - r-stringi ==1.4.3
+        - r-stringr ==1.4.0
+        - r-r.utils
+        - r-ggplot2
+        - r-ggthemes
+        - r-rcolorbrewer
+        - r-data.table
+        - r-cairo
+        - r-usethis
+        - r-testthat
+        - r-devtools
+        - r-roxygen2
+test:
+    commands:
+        - $R -e "library('gwasqcplots')"
+about:
+    home: https://github.com/cpalmer718/gwasqcplots
+    license: GPL-3
+    license_family: GPL3
+    summary: Bundled utility GWAS QC plots with some useful features

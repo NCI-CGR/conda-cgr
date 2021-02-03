@@ -1,0 +1,30 @@
+package:
+  name: merge_files_for_globus
+  version: v1.0.0
+source:
+  git_rev: v1.0.0
+  git_url: https://github.com/NCI-CGR/merge_files_for_globus.git
+requirements:
+  build:
+    - autoconf
+    - automake
+    - make >=4.2
+    - libtool
+    - bzip2
+    - zlib
+    - boost-cpp=1.70
+    - finter
+  host:
+    - {{ compiler('gxx') }}
+    - bzip2
+    - zlib
+    - boost-cpp=1.70
+    - finter
+  run:
+    - bzip2
+    - zlib
+    - boost-cpp=1.70
+    - finter
+about:
+  dev_url: https://github.com/NCI-CGR/merge_files_for_globus
+  home: https://github.com/NCI-CGR/merge_files_for_globus

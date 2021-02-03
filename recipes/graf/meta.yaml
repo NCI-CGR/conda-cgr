@@ -1,0 +1,17 @@
+package:
+  name: graf
+  version: "12sep2018"
+
+source:
+  url: https://github.com/ncbi/graf/archive/master.zip
+
+requirements:
+  run:
+  - perl-cgi
+  - perl-carp
+  - perl-gd
+  - perl-gdgraph
+  - perl-gdtextutil
+
+about:
+  home: https://github.com/ncbi/graf

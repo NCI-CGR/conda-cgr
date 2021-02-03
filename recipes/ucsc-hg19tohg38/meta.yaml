@@ -1,0 +1,9 @@
+package:
+  name: ucsc-hg19tohg38
+  version: "2013_12_31"
+
+source:
+  url: http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg38.over.chain.gz
+
+about:
+  home: http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/

@@ -1,0 +1,9 @@
+package:
+  name: metal
+  version: "2011_03_25"
+
+source:
+  url: http://csg.sph.umich.edu/abecasis/Metal/download/Linux-metal.tar.gz
+
+about:
+  home: http://csg.sph.umich.edu/abecasis/Metal/index.html

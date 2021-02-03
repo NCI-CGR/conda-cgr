@@ -1,0 +1,57 @@
+# This file created by conda-build 3.18.9
+# meta.yaml template originally from:
+# /opt/recipe, last modified Tue Nov 19 08:18:43 2019
+# ------------------------------------------------
+
+package:
+    name: ldsc-rebuild
+    version: 1.0.1
+source:
+    sha256: 302d35c4170b2f245b925fcb70a4014ac20ad1d470a6a4117c21835fa085425f
+    url: https://github.com/bulik/ldsc/archive/12e2687ec9bba39da2139d14f6d1944a23d5774a.tar.gz
+build:
+    noarch: python
+    number: 0
+    string: py_0
+requirements:
+    build:
+        - _libgcc_mutex 0.1 main
+        - ca-certificates 2019.9.11 hecc5488_0
+        - certifi 2019.9.11 py27_0
+        - libffi 3.2.1 he1b5a44_1006
+        - libgcc-ng 9.1.0 hdf63c60_0
+        - libstdcxx-ng 9.1.0 hdf63c60_0
+        - ncurses 6.1 hf484d3e_1002
+        - openssl 1.1.1d h516909a_0
+        - pip 19.3.1 py27_0
+        - python 2.7.15 h5a48372_1009
+        - readline 8.0 hf8c457e_0
+        - setuptools 41.6.0 py27_1
+        - sqlite 3.30.1 hcee41ef_0
+        - tk 8.6.9 hed695b0_1003
+        - wheel 0.33.6 py27_0
+        - zlib 1.2.11 h516909a_1006
+    run:
+        - bitarray
+        - nose
+        - numpy
+        - pandas
+        - pybedtools
+        - python <3
+        - scipy
+test:
+    commands:
+        - which ldsc.py
+        - python -c "import ldscore.ldscore as ld"
+        - ldsc.py -h
+        - munge_sumstats.py -h
+about:
+    home: https://github.com/bulik/ldsc/
+    license: GPLv3
+    license_family: GPL
+    license_file: LICENSE
+    summary: ldsc is a tool for estimating heritability and genetic correlation from
+        GWAS summary statistics. It also computes LD Scores.
+extra:
+    copy_test_source_files: true
+    final: true

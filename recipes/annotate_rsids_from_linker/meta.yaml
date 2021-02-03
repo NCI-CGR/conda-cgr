@@ -1,0 +1,29 @@
+package:
+  name: annotate_rsids_from_linker
+  version: v1.1.0
+source:
+  git_rev: v1.1.0
+  git_url: https://github.com/NCI-CGR/annotate_rsids_from_linker.git
+requirements:
+  build:
+    - autoconf
+    - automake
+    - make >=4.2
+    - libtool
+    - bzip2
+    - zlib
+    - finter
+  host:
+    - {{ compiler('gxx') }}
+    - bzip2
+    - zlib
+    - finter
+  run:
+    - bzip2
+    - zlib
+    - finter
+about:
+  dev_url: https://github.com/NCI-CGR/annotate_rsids_from_linker
+  home: https://github.com/NCI-CGR/annotate_rsids_from_linker
+  license: MIT
+  summary: Use linker file to map chr:pos to rsID labels, for plco-analysis

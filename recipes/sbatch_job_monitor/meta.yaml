@@ -1,0 +1,24 @@
+package:
+  name: sbatch_job_monitor
+  version: v1.0.0
+source:
+  git_rev: v1.0.0
+  git_url: https://github.com/NCI-CGR/sbatch_job_monitor.git
+requirements:
+  build:
+    - autoconf
+    - automake
+    - libtool
+    - {{ compiler('cxx') }}
+    - make>=4.2
+    - boost-cpp=1.70
+  host:
+    - boost-cpp=1.70
+    - {{ compiler('cxx') }}
+  run:
+    - boost-cpp=1.70
+about:
+  dev_url: https://github.com/NCI-CGR/sbatch_job_monitor
+  home: https://github.com/NCI-CGR/sbatch_job_monitor
+  license: MIT
+  summary: slurm interface for "plco-analysis" project

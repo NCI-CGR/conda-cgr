@@ -1,0 +1,24 @@
+package:
+  name: finter
+  version: v1.0.0
+source:
+  git_rev: v1.0.0
+  git_url: https://github.com/cpalmer718/finter.git
+requirements:
+  build:
+    - autoconf
+    - automake
+    - make >=4.2
+    - libtool
+    - bzip2
+    - zlib
+  host:
+    - {{ compiler('gxx') }}
+    - bzip2
+    - zlib
+  run:
+    - bzip2
+    - zlib
+about:
+  dev_url: https://github.com/cpalmer718/finter
+  home: https://github.com/cpalmer718/finter

@@ -1,0 +1,9 @@
+package:
+  name: liftover-v369
+  version: "2018_08_07"
+
+source:
+  url: http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64.v369/liftOver
+
+about:
+  home: http://hgdownload.soe.ucsc.edu/admin/exe

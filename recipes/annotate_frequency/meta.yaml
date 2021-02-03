@@ -1,0 +1,31 @@
+package:
+  name: annotate_frequency
+  version: v1.1.0
+source:
+  git_rev: v1.1.0
+  git_url: https://github.com/NCI-CGR/annotate_frequency.git
+requirements:
+  build:
+    - autoconf
+    - automake
+    - make >=4.2
+    - libtool
+    - bzip2
+    - zlib
+    - boost-cpp=1.70
+    - finter
+  host:
+    - {{ compiler('gxx') }}
+    - bzip2
+    - zlib
+    - boost-cpp=1.70
+    - finter
+  run:
+    - bzip2
+    - zlib
+    - boost-cpp=1.70
+    - finter
+about:
+  dev_url: https://github.com/NCI-CGR/annotate_frequency
+  home: https://github.com/NCI-CGR/annotate_frequency
+  summary: Annotate "plco-analysis" intermediate files with frequency data

@@ -1,0 +1,25 @@
+package:
+  name: initialize_output_directories
+  version: v1.0.4
+source:
+  git_rev: v1.0.4
+  git_url: https://github.com/NCI-CGR/initialize_output_directories.git
+requirements:
+  build:
+    - autoconf
+    - automake
+    - make>=4.2
+    - boost-cpp=1.70
+    - yaml-cpp
+  host:
+    - boost-cpp=1.70
+    - {{ compiler('gxx') }}
+    - yaml-cpp
+  run:
+    - boost-cpp=1.70
+    - yaml-cpp
+about:
+  dev_url: https://github.com/NCI-CGR/initialize_output_directories
+  home: https://github.com/NCI-CGR/initialize_output_directories
+  license: MIT
+  summary: preprocessing module for "plco-analysis" pipeline
