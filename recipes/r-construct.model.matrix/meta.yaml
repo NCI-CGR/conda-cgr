@@ -1,6 +1,6 @@
 package:
     name: r-construct.model.matrix
-    version: 1.1.1
+    version: 1.1.2
 source:
     url:
         - https://github.com/NCI-CGR/construct.model.matrix/archive/v1.1.2.tar.gz
