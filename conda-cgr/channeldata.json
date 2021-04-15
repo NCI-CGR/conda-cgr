@@ -14,7 +14,7 @@
       "icon_url": null,
       "identifiers": null,
       "keywords": null,
-      "license": "MIT",
+      "license": null,
       "post_link": false,
       "pre_link": false,
       "pre_unlink": false,
@@ -29,7 +29,7 @@
       "tags": null,
       "text_prefix": false,
       "timestamp": 1612006411,
-      "version": "v1.1.1"
+      "version": "v1.1.0"
     },
     "annotate_rsids_from_linker": {
       "activate.d": false,
@@ -149,7 +149,7 @@
       "tags": null,
       "text_prefix": false,
       "timestamp": 1612006976,
-      "version": "v1.1.1"
+      "version": "v1.1.0"
     },
     "dynamic_r2": {
       "activate.d": false,
@@ -300,36 +300,6 @@
       "text_prefix": false,
       "timestamp": 1612369975,
       "version": "v1.0.5"
-    },
-    "ldsc": {
-      "activate.d": false,
-      "binary_prefix": false,
-      "deactivate.d": false,
-      "description": null,
-      "dev_url": null,
-      "doc_source_url": null,
-      "doc_url": null,
-      "home": "https://github.com/bulik/ldsc/",
-      "icon_hash": null,
-      "icon_url": null,
-      "identifiers": null,
-      "keywords": null,
-      "license": "GPLv3",
-      "post_link": false,
-      "pre_link": false,
-      "pre_unlink": false,
-      "recipe_origin": null,
-      "run_exports": {},
-      "source_git_url": null,
-      "source_url": "https://github.com/bulik/ldsc/archive/12e2687ec9bba39da2139d14f6d1944a23d5774a.tar.gz",
-      "subdirs": [
-        "noarch"
-      ],
-      "summary": "ldsc is a tool for estimating heritability and genetic correlation from GWAS summary statistics. It also computes LD Scores.",
-      "tags": null,
-      "text_prefix": true,
-      "timestamp": 1611884154,
-      "version": "1.0.1"
     },
     "ldsc-rebuild": {
       "activate.d": false,
@@ -502,7 +472,7 @@
       "run_exports": {},
       "source_git_url": null,
       "source_url": [
-        "https://github.com/NCI-CGR/construct.model.matrix/archive/v1.1.1.tar.gz"
+        "https://github.com/NCI-CGR/construct.model.matrix/archive/v1.1.2.tar.gz"
       ],
       "subdirs": [
         "linux-64"
@@ -510,8 +480,8 @@
       "summary": "Construct Model Matrix for plco-analysis pipeline",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1612184317,
-      "version": "1.1.1"
+      "timestamp": 1618499611,
+      "version": "1.1.2"
     },
     "r-gwasqcplots": {
       "activate.d": false,
@@ -603,36 +573,6 @@
       "tags": null,
       "text_prefix": false,
       "timestamp": 1611608726,
-      "version": "2013_12_31"
-    },
-    "ucsc-hg19tohg39": {
-      "activate.d": false,
-      "binary_prefix": false,
-      "deactivate.d": false,
-      "description": null,
-      "dev_url": null,
-      "doc_source_url": null,
-      "doc_url": null,
-      "home": "http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/",
-      "icon_hash": null,
-      "icon_url": null,
-      "identifiers": null,
-      "keywords": null,
-      "license": null,
-      "post_link": false,
-      "pre_link": false,
-      "pre_unlink": false,
-      "recipe_origin": null,
-      "run_exports": {},
-      "source_git_url": null,
-      "source_url": "http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg38.over.chain.gz",
-      "subdirs": [
-        "linux-64"
-      ],
-      "summary": null,
-      "tags": null,
-      "text_prefix": false,
-      "timestamp": 1611605627,
       "version": "2013_12_31"
     }
   },
