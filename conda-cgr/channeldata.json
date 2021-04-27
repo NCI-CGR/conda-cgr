@@ -298,8 +298,8 @@
       "summary": "preprocessing module for \"plco-analysis\" pipeline",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1612369975,
-      "version": "v1.0.5"
+      "timestamp": 1619524112,
+      "version": "v.1.0.6"
     },
     "ldsc-rebuild": {
       "activate.d": false,
