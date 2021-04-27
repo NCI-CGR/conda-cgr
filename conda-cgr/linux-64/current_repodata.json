@@ -177,10 +177,10 @@
         "yaml-cpp >=0.6.3,<0.7.0a0"
       ],
       "license": "MIT",
-      "md5": "d88293759d855940bd716b720f61a513",
+      "md5": "f4e9427636ef135dfe721ca61985235c",
       "name": "initialize_output_directories",
-      "sha256": "d5a69ca4fe08342094f3f5a6d2bad75f7521efb40bcf8323ff75b138973f0a52",
-      "size": 1900345,
+      "sha256": "79e35cf9fdf8e57d186dfcaf19c8e500c63dd92938688871638c27c1588acefa",
+      "size": 1896731,
       "subdir": "linux-64",
       "timestamp": 1612369975393,
       "version": "v1.0.5"
@@ -245,7 +245,7 @@
       "timestamp": 1612008752796,
       "version": "v1.0.0"
     },
-    "r-construct.model.matrix-1.1.2-0.tar.bz2": {
+    "r-construct.model.matrix-1.1.3-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
       "depends": [
@@ -259,13 +259,13 @@
         "r-usethis"
       ],
       "license": "MIT",
-      "md5": "7415cab1e522e60fef77db01a6882a3d",
+      "md5": "5a2ca827e9a51947af379f0be8213196",
       "name": "r-construct.model.matrix",
-      "sha256": "8753787eb403e8682b7ea0b54e3da08db760594dc0608eca1d9bd8a6f716b1da",
-      "size": 52128,
+      "sha256": "700c5c7d3d0299025fe06d6b5e55ab0928deb40c32211325f760da9d24786f75",
+      "size": 51978,
       "subdir": "linux-64",
-      "timestamp": 1618499611896,
-      "version": "1.1.2"
+      "timestamp": 1619203609129,
+      "version": "1.1.3"
     },
     "r-gwasqcplots-1.0.2-0.tar.bz2": {
       "build": "0",
