@@ -41,6 +41,25 @@
       "timestamp": 1611929589798,
       "version": "v1.1.0"
     },
+    "annotate_rsids_from_linker-v1.2.0-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "bzip2 >=1.0.8,<2.0a0",
+        "finter",
+        "libgcc-ng >=9.3.0",
+        "libstdcxx-ng >=9.3.0",
+        "zlib >=1.2.11,<1.3.0a0"
+      ],
+      "license": "MIT",
+      "md5": "910209a0f2defea885501b6f5c6b6714",
+      "name": "annotate_rsids_from_linker",
+      "sha256": "4ee3abc5742252d5556047479cf7564fa1b2af07b879774e1410fa0555c5d9f4",
+      "size": 269037,
+      "subdir": "linux-64",
+      "timestamp": 1624477170563,
+      "version": "v1.2.0"
+    },
     "bolt-lmm-genetic-map-hg38-v2.3.4-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
