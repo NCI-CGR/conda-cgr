@@ -58,8 +58,8 @@
       "summary": "Use linker file to map chr:pos to rsID labels, for plco-analysis",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1611929589,
-      "version": "v1.1.0"
+      "timestamp": 1624477170,
+      "version": "v1.2.0"
     },
     "bolt-lmm-genetic-map-hg38": {
       "activate.d": false,
