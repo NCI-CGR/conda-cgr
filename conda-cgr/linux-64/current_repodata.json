@@ -245,7 +245,7 @@
       "timestamp": 1612008752796,
       "version": "v1.0.0"
     },
-    "r-construct.model.matrix-1.1.4-0.tar.bz2": {
+    "r-construct.model.matrix-1.1.5-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
       "depends": [
@@ -259,13 +259,13 @@
         "r-usethis"
       ],
       "license": "MIT",
-      "md5": "671c31d06770388d97c9ef754a97b050",
+      "md5": "93a115d093c7b566736451ba26b47c93",
       "name": "r-construct.model.matrix",
-      "sha256": "a22a9a6dda2a96e4298dd37da9dcf6ea983d82f9884985f43f636e825ba7c8ed",
-      "size": 51909,
+      "sha256": "0906dce395adb2c130d9de8ae16ee1f70529e5c9248f97a0d6fce468c9e9accb",
+      "size": 53186,
       "subdir": "linux-64",
-      "timestamp": 1619546619035,
-      "version": "1.1.4"
+      "timestamp": 1627680136211,
+      "version": "1.1.5"
     },
     "r-gwasqcplots-1.0.2-0.tar.bz2": {
       "build": "0",
