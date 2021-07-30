@@ -267,6 +267,28 @@
       "timestamp": 1619546619035,
       "version": "1.1.4"
     },
+    "r-construct.model.matrix-1.1.5-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "icu 58.2",
+        "r-data.table",
+        "r-devtools",
+        "r-roxygen2",
+        "r-stringi 1.4.3",
+        "r-stringr 1.4.0",
+        "r-testthat",
+        "r-usethis"
+      ],
+      "license": "MIT",
+      "md5": "93a115d093c7b566736451ba26b47c93",
+      "name": "r-construct.model.matrix",
+      "sha256": "0906dce395adb2c130d9de8ae16ee1f70529e5c9248f97a0d6fce468c9e9accb",
+      "size": 53186,
+      "subdir": "linux-64",
+      "timestamp": 1627680136211,
+      "version": "1.1.5"
+    },
     "r-gwasqcplots-1.0.2-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
