@@ -167,7 +167,7 @@
       "timestamp": 1610563524875,
       "version": "12sep2018"
     },
-    "initialize_output_directories-v.1.0.6-0.tar.bz2": {
+    "initialize_output_directories-v.1.0.7-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
       "depends": [
@@ -177,13 +177,13 @@
         "yaml-cpp >=0.6.3,<0.7.0a0"
       ],
       "license": "MIT",
-      "md5": "b157e0cfd863396d2fb9a42160b986c5",
+      "md5": "59b43e145e3f15a567209ac11483c6cb",
       "name": "initialize_output_directories",
-      "sha256": "92c0fdec90e8e03b48e1454e2c4dfa138aa61bf1ce6b7f520ce712db1679ed96",
-      "size": 1896036,
+      "sha256": "a82d57e1de5b1d5fcff580bb9dfe6d29bfb5b9172975d4090ea2b86913318f70",
+      "size": 1896393,
       "subdir": "linux-64",
-      "timestamp": 1619524112471,
-      "version": "v.1.0.6"
+      "timestamp": 1627671666949,
+      "version": "v.1.0.7"
     },
     "liftover-v369-2018_08_07-0.tar.bz2": {
       "build": "0",
