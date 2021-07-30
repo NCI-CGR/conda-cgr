@@ -1,8 +1,8 @@
 package:
   name: initialize_output_directories
-  version: v.1.0.6
+  version: v.1.0.7
 source:
-  git_rev: v.1.0.6
+  git_rev: v.1.0.7
   git_url: https://github.com/NCI-CGR/initialize_output_directories.git
 requirements:
   build:
