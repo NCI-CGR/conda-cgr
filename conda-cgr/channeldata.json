@@ -28,8 +28,8 @@
       "summary": "Annotate \"plco-analysis\" intermediate files with frequency data",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1612006411,
-      "version": "v1.1.0"
+      "timestamp": 1640311121,
+      "version": "v1.1.1"
     },
     "annotate_rsids_from_linker": {
       "activate.d": false,
