@@ -3,24 +3,25 @@
     "subdir": "linux-64"
   },
   "packages": {
-    "annotate_frequency-v1.1.0-0.tar.bz2": {
+    "annotate_frequency-v1.1.1-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
       "depends": [
         "boost-cpp 1.70.*",
         "bzip2 >=1.0.8,<2.0a0",
         "finter",
-        "libgcc-ng >=9.3.0",
-        "libstdcxx-ng >=9.3.0",
-        "zlib >=1.2.11,<1.3.0a0"
+        "libgcc-ng >=11.2.0",
+        "libstdcxx-ng >=11.2.0",
+        "libzlib >=1.2.11,<1.3.0a0",
+        "zlib"
       ],
-      "md5": "7ee504107293f774ec2702044df9a006",
+      "md5": "5c9509681e148b306fe407bd7337c201",
       "name": "annotate_frequency",
-      "sha256": "5f0e058cd9ff80ebe3ee7415e1707187ac9c21de630703e80bebeb7f8aa430a1",
-      "size": 491375,
+      "sha256": "1c19e6ef11ae7ce58fc72a602c05986e065ba448a013cd86074b99e7f2e3a2a3",
+      "size": 403976,
       "subdir": "linux-64",
-      "timestamp": 1612006411021,
-      "version": "v1.1.0"
+      "timestamp": 1640311121558,
+      "version": "v1.1.1"
     },
     "annotate_rsids_from_linker-v1.2.0-0.tar.bz2": {
       "build": "0",
