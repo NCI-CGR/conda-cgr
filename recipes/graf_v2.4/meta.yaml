@@ -1,0 +1,17 @@
+package:
+  name: graf
+  version: "2.4"
+
+source:
+  url: "http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetZip.cgi?zip_name=GRAF_files.zip"
+
+requirements:
+  run:
+  - perl-cgi
+  - perl-carp
+  - perl-gd
+  - perl-gdgraph
+  - perl-gdtextutil
+
+about:
+  home: https://github.com/ncbi/graf
