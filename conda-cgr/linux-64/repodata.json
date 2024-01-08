@@ -168,6 +168,42 @@
       "timestamp": 1610563524875,
       "version": "12sep2018"
     },
+    "graf-2.4-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "perl-carp",
+        "perl-cgi",
+        "perl-gd",
+        "perl-gdgraph",
+        "perl-gdtextutil"
+      ],
+      "md5": "22809100c2c3c312062a6456a0193c68",
+      "name": "graf",
+      "sha256": "89b641d20ef67e5f942bd862c340b23b0a2df8d59304e2f393d8558dfe39c20e",
+      "size": 10230951,
+      "subdir": "linux-64",
+      "timestamp": 1703628658400,
+      "version": "2.4"
+    },
+    "grafpop-1.0-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "perl-carp",
+        "perl-cgi",
+        "perl-gd",
+        "perl-gdgraph",
+        "perl-gdtextutil"
+      ],
+      "md5": "78310dfb46a4764952a23580ab5a1a1b",
+      "name": "grafpop",
+      "sha256": "f4fd7492f4bcb7232dc56f4624e9c3acef15b0df7c997437a328b022dd59a543",
+      "size": 48750847,
+      "subdir": "linux-64",
+      "timestamp": 1704733334954,
+      "version": "1.0"
+    },
     "initialize_output_directories-v.1.0.7-0.tar.bz2": {
       "build": "0",
       "build_number": 0,

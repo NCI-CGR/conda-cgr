@@ -1,0 +1,17 @@
+package:
+  name: grafpop #has to be lowercase
+  version: "1.0"
+
+source:
+  url: "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetZip.cgi?zip_name=GrafPop1.0.tar.gz"
+
+requirements:
+  run:
+  - perl-cgi
+  - perl-carp
+  - perl-gd
+  - perl-gdgraph
+  - perl-gdtextutil
+
+about:
+  home: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/Software.cgi
