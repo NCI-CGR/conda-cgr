@@ -198,7 +198,7 @@
       "summary": null,
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1704733334,
+      "timestamp": 1705005062,
       "version": "1.0"
     },
     "initialize_output_directories": {
@@ -316,22 +316,12 @@
       "activate.d": false,
       "binary_prefix": false,
       "deactivate.d": false,
-      "description": null,
-      "dev_url": null,
-      "doc_source_url": null,
-      "doc_url": null,
       "home": "https://github.com/NCI-CGR/construct.model.matrix",
-      "icon_hash": null,
-      "icon_url": null,
-      "identifiers": null,
-      "keywords": null,
       "license": "MIT",
       "post_link": false,
       "pre_link": false,
       "pre_unlink": false,
-      "recipe_origin": null,
       "run_exports": {},
-      "source_git_url": null,
       "source_url": [
         "https://github.com/NCI-CGR/construct.model.matrix/archive/v1.1.5.tar.gz"
       ],
@@ -339,7 +329,6 @@
         "linux-64"
       ],
       "summary": "Construct Model Matrix for plco-analysis pipeline",
-      "tags": null,
       "text_prefix": false,
       "timestamp": 1627680136,
       "version": "1.1.5"
