@@ -1,1 +1,412 @@
-{"channeldata_version":1,"packages":{"annotate_frequency":{"activate.d":false,"binary_prefix":true,"deactivate.d":false,"dev_url":"https://github.com/NCI-CGR/annotate_frequency","home":"https://github.com/NCI-CGR/annotate_frequency","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_git_url":"https://github.com/NCI-CGR/annotate_frequency.git","subdirs":["linux-64"],"summary":"Annotate \"plco-analysis\" intermediate files with frequency data","text_prefix":false,"timestamp":1640311121,"version":"v1.1.1"},"annotate_rsids_from_linker":{"activate.d":false,"binary_prefix":true,"deactivate.d":false,"dev_url":"https://github.com/NCI-CGR/annotate_rsids_from_linker","home":"https://github.com/NCI-CGR/annotate_rsids_from_linker","license":"MIT","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_git_url":"https://github.com/NCI-CGR/annotate_rsids_from_linker.git","subdirs":["linux-64"],"summary":"Use linker file to map chr:pos to rsID labels, for plco-analysis","text_prefix":false,"timestamp":1624477170,"version":"v1.2.0"},"bolt-lmm-genetic-map-hg38":{"activate.d":false,"binary_prefix":false,"deactivate.d":false,"home":"https://alkesgroup.broadinstitute.org/BOLT-LMM","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_url":"https://storage.googleapis.com/broad-alkesgroup-public/BOLT-LMM/downloads/BOLT-LMM_v2.3.4.tar.gz","subdirs":["linux-64"],"text_prefix":false,"timestamp":1611673551,"version":"v2.3.4"},"bolt-lmm-rebuild":{"activate.d":false,"binary_prefix":true,"deactivate.d":false,"home":"https://alkesgroup.broadinstitute.org/BOLT-LMM/","license":"GPL-3+","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_url":"https://storage.googleapis.com/broad-alkesgroup-public/BOLT-LMM/downloads/BOLT-LMM_v2.3.4.tar.gz","subdirs":["linux-64"],"summary":"Efficient large cohorts genome-wide Bayesian mixed-model association testing","text_prefix":false,"timestamp":1611969934,"version":"2.3.4"},"combine_categorical_runs":{"activate.d":false,"binary_prefix":true,"deactivate.d":false,"dev_url":"https://github.com/NCI-CGR/combine_categorical_runs","home":"https://github.com/NCI-CGR/combine_categorical_runs","license":"MIT","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_git_url":"https://github.com/NCI-CGR/combine_categorical_runs.git","subdirs":["linux-64"],"summary":"postprocessing module for \"plco-analysis\" pipeline","text_prefix":false,"timestamp":1612006976,"version":"v1.1.0"},"dynamic_r2":{"activate.d":false,"binary_prefix":true,"deactivate.d":false,"dev_url":"https://github.com/NCI-CGR/dynamic_r2","home":"https://github.com/NCI-CGR/dynamic_r2","license":"MIT","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_git_url":"https://github.com/NCI-CGR/dynamic_r2.git","subdirs":["linux-64"],"summary":"Filter minimac4 imputed data by Rsq within frequency bins","text_prefix":false,"timestamp":1612289803,"version":"v1.0.0"},"filter_mis_output":{"activate.d":false,"binary_prefix":true,"deactivate.d":false,"dev_url":"https://github.com/NCI-CGR/filter_mis_output","home":"https://github.com/NCI-CGR/filter_mis_output","license":"MIT","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_git_url":"https://github.com/NCI-CGR/filter_mis_output.git","subdirs":["linux-64"],"summary":"Apply results of dynamic_r2 to remove failed variants","text_prefix":false,"timestamp":1612294704,"version":"v1.0.0"},"finter":{"activate.d":false,"binary_prefix":false,"deactivate.d":false,"dev_url":"https://github.com/cpalmer718/finter","home":"https://github.com/cpalmer718/finter","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_git_url":"https://github.com/cpalmer718/finter.git","subdirs":["linux-64"],"text_prefix":false,"timestamp":1611889957,"version":"v1.0.0"},"graf":{"activate.d":false,"binary_prefix":false,"deactivate.d":false,"home":"https://github.com/ncbi/graf","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_url":"https://github.com/ncbi/graf/archive/master.zip","subdirs":["linux-64"],"text_prefix":false,"timestamp":1703628658,"version":"12sep2018"},"grafpop":{"activate.d":false,"binary_prefix":false,"deactivate.d":false,"home":"https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/Software.cgi","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_url":"https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetZip.cgi?zip_name=GrafPop1.0.tar.gz","subdirs":["linux-64"],"text_prefix":false,"timestamp":1704737489,"version":"1.0"},"initialize_output_directories":{"activate.d":false,"binary_prefix":true,"deactivate.d":false,"dev_url":"https://github.com/NCI-CGR/initialize_output_directories","home":"https://github.com/NCI-CGR/initialize_output_directories","license":"MIT","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_git_url":"https://github.com/NCI-CGR/initialize_output_directories.git","subdirs":["linux-64"],"summary":"preprocessing module for \"plco-analysis\" pipeline","text_prefix":false,"timestamp":1627671666,"version":"v.1.0.7"},"ldsc-rebuild":{"activate.d":false,"binary_prefix":false,"deactivate.d":false,"home":"https://github.com/bulik/ldsc/","license":"GPLv3","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_url":"https://github.com/bulik/ldsc/archive/12e2687ec9bba39da2139d14f6d1944a23d5774a.tar.gz","subdirs":["noarch"],"summary":"ldsc is a tool for estimating heritability and genetic correlation from GWAS summary statistics. It also computes LD Scores.","text_prefix":true,"timestamp":1611941145,"version":"1.0.1"},"liftover-v369":{"activate.d":false,"binary_prefix":false,"deactivate.d":false,"home":"http://hgdownload.soe.ucsc.edu/admin/exe","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_url":"http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64.v369/liftOver","subdirs":["linux-64"],"text_prefix":false,"timestamp":1612095507,"version":"2018_08_07"},"merge_files_for_globus":{"activate.d":false,"binary_prefix":true,"deactivate.d":false,"dev_url":"https://github.com/NCI-CGR/merge_files_for_globus","home":"https://github.com/NCI-CGR/merge_files_for_globus","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_git_url":"https://github.com/NCI-CGR/merge_files_for_globus.git","subdirs":["linux-64"],"text_prefix":false,"timestamp":1612008184,"version":"v1.0.0"},"metal":{"activate.d":false,"binary_prefix":false,"deactivate.d":false,"home":"http://csg.sph.umich.edu/abecasis/Metal/index.html","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_url":"http://csg.sph.umich.edu/abecasis/Metal/download/Linux-metal.tar.gz","subdirs":["linux-64"],"text_prefix":false,"timestamp":1611092288,"version":"2011_03_25"},"qsub_job_monitor":{"activate.d":false,"binary_prefix":true,"deactivate.d":false,"dev_url":"https://github.com/NCI-CGR/qsub_job_monitor","home":"https://github.com/NCI-CGR/qsub_job_monitor","license":"MIT","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_git_url":"https://github.com/NCI-CGR/qsub_job_monitor.git","subdirs":["linux-64"],"summary":"qsub interface for \"plco-analysis\" project","text_prefix":false,"timestamp":1612008752,"version":"v1.0.0"},"r-construct.model.matrix":{"activate.d":false,"binary_prefix":false,"deactivate.d":false,"home":"https://github.com/NCI-CGR/construct.model.matrix","license":"MIT","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_url":["https://github.com/NCI-CGR/construct.model.matrix/archive/v1.1.5.tar.gz"],"subdirs":["linux-64"],"summary":"Construct Model Matrix for plco-analysis pipeline","text_prefix":false,"timestamp":1619546619,"version":"1.1.5"},"r-gwasqcplots":{"activate.d":false,"binary_prefix":false,"deactivate.d":false,"home":"https://github.com/cpalmer718/gwasqcplots","license":"GPL-3","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_url":["https://github.com/cpalmer718/gwasqcplots/archive/v1.0.2.tar.gz"],"subdirs":["linux-64"],"summary":"Bundled utility GWAS QC plots with some useful features","text_prefix":false,"timestamp":1612192380,"version":"1.0.2"},"sbatch_job_monitor":{"activate.d":false,"binary_prefix":true,"deactivate.d":false,"dev_url":"https://github.com/NCI-CGR/sbatch_job_monitor","home":"https://github.com/NCI-CGR/sbatch_job_monitor","license":"MIT","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_git_url":"https://github.com/NCI-CGR/sbatch_job_monitor.git","subdirs":["linux-64"],"summary":"slurm interface for \"plco-analysis\" project","text_prefix":false,"timestamp":1612225805,"version":"v1.0.0"},"ucsc-hg19tohg38":{"activate.d":false,"binary_prefix":false,"deactivate.d":false,"home":"http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/","post_link":false,"pre_link":false,"pre_unlink":false,"run_exports":{},"source_url":"http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg38.over.chain.gz","subdirs":["linux-64"],"text_prefix":false,"timestamp":1611608726,"version":"2013_12_31"}},"subdirs":["linux-64","noarch"]}
+{
+  "channeldata_version": 1,
+  "packages": {
+    "annotate_frequency": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "dev_url": "https://github.com/NCI-CGR/annotate_frequency",
+      "home": "https://github.com/NCI-CGR/annotate_frequency",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/annotate_frequency.git",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Annotate \"plco-analysis\" intermediate files with frequency data",
+      "text_prefix": false,
+      "timestamp": 1640311121,
+      "version": "v1.1.1"
+    },
+    "annotate_rsids_from_linker": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "dev_url": "https://github.com/NCI-CGR/annotate_rsids_from_linker",
+      "home": "https://github.com/NCI-CGR/annotate_rsids_from_linker",
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/annotate_rsids_from_linker.git",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Use linker file to map chr:pos to rsID labels, for plco-analysis",
+      "text_prefix": false,
+      "timestamp": 1624477170,
+      "version": "v1.2.0"
+    },
+    "bolt-lmm-genetic-map-hg38": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "home": "https://alkesgroup.broadinstitute.org/BOLT-LMM",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_url": "https://storage.googleapis.com/broad-alkesgroup-public/BOLT-LMM/downloads/BOLT-LMM_v2.3.4.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "text_prefix": false,
+      "timestamp": 1611673551,
+      "version": "v2.3.4"
+    },
+    "bolt-lmm-rebuild": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "home": "https://alkesgroup.broadinstitute.org/BOLT-LMM/",
+      "license": "GPL-3+",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_url": "https://storage.googleapis.com/broad-alkesgroup-public/BOLT-LMM/downloads/BOLT-LMM_v2.3.4.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Efficient large cohorts genome-wide Bayesian mixed-model association testing",
+      "text_prefix": false,
+      "timestamp": 1611969934,
+      "version": "2.3.4"
+    },
+    "combine_categorical_runs": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "dev_url": "https://github.com/NCI-CGR/combine_categorical_runs",
+      "home": "https://github.com/NCI-CGR/combine_categorical_runs",
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/combine_categorical_runs.git",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "postprocessing module for \"plco-analysis\" pipeline",
+      "text_prefix": false,
+      "timestamp": 1612006976,
+      "version": "v1.1.0"
+    },
+    "dynamic_r2": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "dev_url": "https://github.com/NCI-CGR/dynamic_r2",
+      "home": "https://github.com/NCI-CGR/dynamic_r2",
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/dynamic_r2.git",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Filter minimac4 imputed data by Rsq within frequency bins",
+      "text_prefix": false,
+      "timestamp": 1612289803,
+      "version": "v1.0.0"
+    },
+    "filter_mis_output": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "dev_url": "https://github.com/NCI-CGR/filter_mis_output",
+      "home": "https://github.com/NCI-CGR/filter_mis_output",
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/filter_mis_output.git",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Apply results of dynamic_r2 to remove failed variants",
+      "text_prefix": false,
+      "timestamp": 1612294704,
+      "version": "v1.0.0"
+    },
+    "finter": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "dev_url": "https://github.com/cpalmer718/finter",
+      "home": "https://github.com/cpalmer718/finter",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_git_url": "https://github.com/cpalmer718/finter.git",
+      "subdirs": [
+        "linux-64"
+      ],
+      "text_prefix": false,
+      "timestamp": 1611889957,
+      "version": "v1.0.0"
+    },
+    "graf": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/ncbi/graf",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": null,
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://github.com/ncbi/graf/archive/master.zip",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": null,
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1703628658,
+      "version": "12sep2018"
+    },
+    "grafpop": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/Software.cgi",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": null,
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetZip.cgi?zip_name=GrafPop1.0.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": null,
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1705005062,
+      "version": "1.0"
+    },
+    "initialize_output_directories": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "dev_url": "https://github.com/NCI-CGR/initialize_output_directories",
+      "home": "https://github.com/NCI-CGR/initialize_output_directories",
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/initialize_output_directories.git",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "preprocessing module for \"plco-analysis\" pipeline",
+      "text_prefix": false,
+      "timestamp": 1627671666,
+      "version": "v.1.0.7"
+    },
+    "ldsc-rebuild": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "home": "https://github.com/bulik/ldsc/",
+      "license": "GPLv3",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_url": "https://github.com/bulik/ldsc/archive/12e2687ec9bba39da2139d14f6d1944a23d5774a.tar.gz",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "ldsc is a tool for estimating heritability and genetic correlation from GWAS summary statistics. It also computes LD Scores.",
+      "text_prefix": true,
+      "timestamp": 1611941145,
+      "version": "1.0.1"
+    },
+    "liftover-v369": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "home": "http://hgdownload.soe.ucsc.edu/admin/exe",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_url": "http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64.v369/liftOver",
+      "subdirs": [
+        "linux-64"
+      ],
+      "text_prefix": false,
+      "timestamp": 1612095507,
+      "version": "2018_08_07"
+    },
+    "merge_files_for_globus": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "dev_url": "https://github.com/NCI-CGR/merge_files_for_globus",
+      "home": "https://github.com/NCI-CGR/merge_files_for_globus",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/merge_files_for_globus.git",
+      "subdirs": [
+        "linux-64"
+      ],
+      "text_prefix": false,
+      "timestamp": 1612008184,
+      "version": "v1.0.0"
+    },
+    "metal": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "home": "http://csg.sph.umich.edu/abecasis/Metal/index.html",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_url": "http://csg.sph.umich.edu/abecasis/Metal/download/Linux-metal.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "text_prefix": false,
+      "timestamp": 1611092288,
+      "version": "2011_03_25"
+    },
+    "qsub_job_monitor": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "dev_url": "https://github.com/NCI-CGR/qsub_job_monitor",
+      "home": "https://github.com/NCI-CGR/qsub_job_monitor",
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/qsub_job_monitor.git",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "qsub interface for \"plco-analysis\" project",
+      "text_prefix": false,
+      "timestamp": 1612008752,
+      "version": "v1.0.0"
+    },
+    "r-construct.model.matrix": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "home": "https://github.com/NCI-CGR/construct.model.matrix",
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_url": [
+        "https://github.com/NCI-CGR/construct.model.matrix/archive/v1.1.5.tar.gz"
+      ],
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Construct Model Matrix for plco-analysis pipeline",
+      "text_prefix": false,
+      "timestamp": 1627680136,
+      "version": "1.1.5"
+    },
+    "r-gwasqcplots": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "home": "https://github.com/cpalmer718/gwasqcplots",
+      "license": "GPL-3",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_url": [
+        "https://github.com/cpalmer718/gwasqcplots/archive/v1.0.2.tar.gz"
+      ],
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Bundled utility GWAS QC plots with some useful features",
+      "text_prefix": false,
+      "timestamp": 1612192380,
+      "version": "1.0.2"
+    },
+    "sbatch_job_monitor": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "dev_url": "https://github.com/NCI-CGR/sbatch_job_monitor",
+      "home": "https://github.com/NCI-CGR/sbatch_job_monitor",
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_git_url": "https://github.com/NCI-CGR/sbatch_job_monitor.git",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "slurm interface for \"plco-analysis\" project",
+      "text_prefix": false,
+      "timestamp": 1612225805,
+      "version": "v1.0.0"
+    },
+    "ucsc-hg19tohg38": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "home": "http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "run_exports": {},
+      "source_url": "http://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg38.over.chain.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "text_prefix": false,
+      "timestamp": 1611608726,
+      "version": "2013_12_31"
+    }
+  },
+  "subdirs": [
+    "linux-64",
+    "noarch"
+  ]
+}
