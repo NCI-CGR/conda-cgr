@@ -196,10 +196,10 @@
         "perl-gdgraph",
         "perl-gdtextutil"
       ],
-      "md5": "71ed1072a4f64350f6c3fa0b677becd2",
+      "md5": "a8f8f41b32abe1e84f07b0621d4daab3",
       "name": "grafpop",
-      "sha256": "4d7f143606143a6fd555c2957ee2333e52b395bdc303a9365ee0377e0dc866fb",
-      "size": 48760475,
+      "sha256": "7cc887e7ddf6b9bb1bb5d74252689ad45c6079e900f0bf39ea4a282f3fd58c3d",
+      "size": 48765584,
       "subdir": "linux-64",
       "timestamp": 1705005062157,
       "version": "1.0"

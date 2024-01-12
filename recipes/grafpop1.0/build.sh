@@ -6,6 +6,7 @@ sed 's/\/usr\/local\/bin\/perl/\/usr\/bin\/env perl/' SaveSamples.pl > $PREFIX/b
 mkdir $PREFIX/share
 mkdir $PREFIX/share/grafpop
 cp -R *.pm $PREFIX/share/grafpop #Add .pm files for perl scripts
+cp -R *.pm $PREFIX/bin
 cp -R data/* $PREFIX/share/grafpop
 export GRAFPATH="$PREFIX/share/grafpop"
 
